@@ -1,0 +1,51 @@
+﻿user_id,name,email,password,age,preference
+1,Alexandre Traore,patrick32@example.net,@#8P@CsS4V,31,"['Comedie', 'Action', 'Science-Fiction']"
+2,Denis-Franck Ledoux,francois16@example.org,^5RTiSnXpU,63,['Drame']
+3,Gabriel Roussel,dlopes@example.net,27vLXlf0^z,21,['Documentaire']
+4,Alfred Gomes-Maréchal,christophe39@example.net,Ht3U6T7p^H,21,"['Animation', 'Action', 'Documentaire']"
+5,André Masson,lorraineleroux@example.net,G&Rx9CmcR7,48,['Horreur']
+6,Michel Bernard,constance28@example.org,_+iUqR!B@4,61,"['Action', 'Documentaire', 'Horreur']"
+7,Augustin Foucher,wmuller@example.net,w2RWxVhp#H,44,"['Documentaire', 'Animation', 'Horreur']"
+8,Frédéric Andre-Maillot,pruvostfrancoise@example.org,e%%3CQAcR),60,"['Science-Fiction', 'Action', 'Drame']"
+9,Benoît de Delmas,bmonnier@example.com,y0HVp62u*8,25,"['Romance', 'Science-Fiction']"
+10,André Gilles,morinodette@example.org,3H6Py7kp#w,22,['Romance']
+11,Franck Boyer de Letellier,bertrand09@example.com,xF1Wb5br(8,22,['Animation']
+12,Josette Martins,olivier46@example.org,u_!4OkRP)D,67,"['Romance', 'Science-Fiction']"
+13,Matthieu Devaux,juliette80@example.net,4)(*V8Wd(Y,50,['Thriller']
+14,Timothée Briand,benjamin05@example.org,_e4(Fdx#FS,21,['Animation']
+15,Alice Pelletier,maggiemenard@example.net,rIX@5Yrlr@,61,"['Science-Fiction', 'Romance', 'Horreur']"
+16,Bernard Weber,lelievrematthieu@example.org,5zaH8JjD*c,58,['Action']
+17,Emmanuel-Stéphane Aubry,nicolasjeannine@example.com,y^s5$Ntlcv,21,['Science-Fiction']
+18,Margaux Dupré,fouquettheophile@example.net,dT26KhmUI%,40,['Comedie']
+19,Margot Turpin du Pichon,daniellereynaud@example.net,bJ&w5A1q$#,26,"['Thriller', 'Romance']"
+20,Élise-Nathalie Costa,jberger@example.net,rj4ldYTy+0,58,"['Romance', 'Horreur']"
+21,Claude Launay,vleroux@example.com,o*4Y5Kh5Cs,50,"['Comedie', 'Drame']"
+22,Franck Andre,vcordier@example.net,nGiB@rgN*6,40,"['Horreur', 'Drame', 'Thriller']"
+23,Geneviève Maillard,bvallee@example.com,^u6RXVf&Jq,59,"['Documentaire', 'Horreur']"
+24,Frédérique De Sousa,yves64@example.com,h$1P^w#a6%,68,"['Action', 'Horreur']"
+25,Roland Carpentier,qbonnin@example.com,f#09TuUtFx,41,['Romance']
+26,Célina Moreno de Perrot,xpeltier@example.org,m*xZneAn(5,52,"['Comedie', 'Horreur']"
+27,Isaac-Gérard Fernandez,catherine37@example.net,O)O678KaTQ,41,"['Romance', 'Horreur', 'Thriller']"
+28,Isabelle Blot-Ollivier,ypons@example.org,d@V4HmhCe8,24,"['Thriller', 'Drame', 'Science-Fiction']"
+29,René Ledoux,leonfabre@example.net,*QX*s41@48,50,['Documentaire']
+30,Caroline Richard,charlotte77@example.com,(%OIc+pw#0,53,"['Aventure', 'Animation']"
+31,Monique du Pichon,jacqueline64@example.net,)iY0T5SxId,24,"['Romance', 'Horreur']"
+32,Guy Boutin du Guérin,remytoussaint@example.net,S_tn30NdU9,23,"['Thriller', 'Comedie', 'Action']"
+33,Philippe-Richard Teixeira,mfaure@example.org,@45pT@ii&i,66,['Drame']
+34,Stéphane Nguyen,erobin@example.com,v5IObHK#&6,40,"['Animation', 'Comedie', 'Aventure']"
+35,Susan Pasquier-Vincent,dianeetienne@example.net,7buKd(YX*+,51,"['Thriller', 'Documentaire', 'Science-Fiction']"
+36,Bertrand Pinto-Lemaire,coletteauger@example.com,y6SG4Npp(k,59,['Comedie']
+37,Guy Pages,virginie99@example.net,*CiFv2OrGp,34,"['Science-Fiction', 'Romance', 'Comedie']"
+38,Nathalie Dupré,clemenceda-silva@example.org,qdQLf9K+M(,16,"['Drame', 'Thriller']"
+39,Monique Prévost,callard@example.net,@zhK3UvKds,48,"['Science-Fiction', 'Documentaire', 'Drame']"
+40,Gérard Laporte,rmoreno@example.org,q2CttM66#l,69,['Science-Fiction']
+41,Marie Coste,lucie64@example.com,%GE9M@np!3,39,"['Documentaire', 'Horreur', 'Drame']"
+42,Thibaut Benard-Vasseur,lauredeschamps@example.net,sZ2KUd&9+0,65,['Documentaire']
+43,Gilbert Leduc,oceane51@example.com,pfyx2Yh@R@,17,"['Action', 'Romance', 'Thriller']"
+44,Yves Rey,nlaurent@example.net,%m9AI_Hu^*,69,['Romance']
+45,Paulette Coste,arnaudebegue@example.org,#*K9N*iSyE,31,"['Horreur', 'Action']"
+46,Bernadette Dupré,lucyriou@example.net,!)Z^k33qC0,68,"['Comedie', 'Aventure', 'Thriller']"
+47,Richard Deschamps,fredericpeltier@example.org,kL@7)J(z#0,65,['Documentaire']
+48,Thibault Bertrand-Petitjean,celine00@example.com,Ot^^V%8d&6,58,['Drame']
+49,Philippine de Boutin,beguemanon@example.net,r+nHf3Nowc,32,"['Documentaire', 'Drame']"
+50,Roger Lopez,marguerite16@example.com,xWE6Xab(o_,50,"['Aventure', 'Animation', 'Horreur']"

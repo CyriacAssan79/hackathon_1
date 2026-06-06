@@ -1,423 +1,666 @@
-﻿"history_id","user_id","movie_id","movie_title","genre","rate","date"
-"1","1","188","Akira","Romance","4","2025-02-09"
-"2","1","152","Dumb and Dumber","Thriller","5","2026-01-09"
-"3","1","69","True Grit","Drame","4","2026-04-20"
-"4","1","83","Toy Story 3","Comedie","1","2025-05-15"
-"5","1","63","Taxi Driver","Animation","3","2025-10-24"
-"6","1","23","Saving Private Ryan","Science-Fiction","4","2024-12-08"
-"7","1","72","Good Will Hunting","Action","3","2025-01-08"
-"8","1","116","The Little Mermaid","Animation","3","2025-02-24"
-"9","2","133","Lawrence of Arabia","Horreur","2","2024-08-31"
-"10","2","49","Predator","Comedie","4","2025-07-26"
-"11","3","5","Forrest Gump","Horreur","4","2025-05-23"
-"12","3","24","Schindlers List","Horreur","3","2025-12-20"
-"13","3","76","La La Land","Science-Fiction","4","2025-05-31"
-"14","3","57","Mission: Impossible - Fallout","Aventure","3","2025-03-09"
-"15","3","104","How to Train Your Dragon","Action","2","2025-02-17"
-"16","3","178","Parasite","Drame","2","2024-10-06"
-"17","3","63","Taxi Driver","Animation","1","2025-04-24"
-"18","3","79","Fantastic Mr. Fox","Horreur","2","2025-12-05"
-"19","3","170","Before Sunset","Action","2","2024-12-18"
-"20","3","149","Home Alone","Thriller","3","2025-10-13"
-"21","3","95","Cars","Comedie","5","2026-01-29"
-"22","3","122","Fantasia","Horreur","3","2026-02-06"
-"23","3","142","Rambo: First Blood","Aventure","2","2024-09-15"
-"24","3","136","The Sound of Music","Romance","2","2025-04-04"
-"25","4","137","Apocalypse Now","Documentaire","3","2026-01-13"
-"26","4","33","The Wolf of Wall Street","Comedie","4","2025-09-28"
-"27","4","71","A Beautiful Mind","Comedie","3","2025-08-30"
-"28","4","12","The Lord of the Rings: The Return of the King","Romance","1","2024-12-10"
-"29","4","14","Star Wars: The Empire Strikes Back","Comedie","4","2025-02-18"
-"30","4","142","Rambo: First Blood","Aventure","1","2024-09-29"
-"31","4","75","Eternal Sunshine of the Spotless Mind","Drame","4","2025-07-20"
-"32","4","179","Oldboy","Aventure","5","2024-08-19"
-"33","4","164","Sleepless in Seattle","Thriller","1","2026-03-11"
-"34","4","193","Ip Man","Science-Fiction","2","2024-11-07"
-"35","4","126","Singin in the Rain","Romance","3","2026-01-02"
-"36","4","27","The Usual Suspects","Aventure","2","2024-08-31"
-"37","4","4","Pulp Fiction","Action","5","2024-10-04"
-"38","5","98","Luca","Action","1","2026-02-19"
-"39","5","116","The Little Mermaid","Animation","2","2025-01-03"
-"40","5","114","Mulan","Animation","1","2025-03-02"
-"41","5","77","The Grand Budapest Hotel","Science-Fiction","2","2024-11-12"
-"42","5","151","The Mask","Horreur","5","2024-11-29"
-"43","5","110","Moana","Aventure","2","2024-08-20"
-"44","5","79","Fantastic Mr. Fox","Horreur","4","2024-06-07"
-"45","5","146","Ferris Buellers Day Off","Romance","5","2025-09-09"
-"46","5","159","Mean Girls","Animation","3","2025-09-29"
-"47","5","16","Interstellar","Action","2","2024-07-08"
-"48","6","60","Heat","Science-Fiction","2","2026-03-30"
-"49","6","68","The Big Lebowski","Documentaire","2","2025-03-04"
-"52","6","161","Notting Hill","Thriller","5","2026-02-04"
-"53","6","151","The Mask","Horreur","4","2025-03-27"
-"54","6","170","Before Sunset","Action","4","2024-10-10"
-"55","6","51","Mad Max: Fury Road","Drame","3","2026-05-11"
-"56","6","109","Frozen","Drame","4","2026-05-22"
-"57","6","30","The Prestige","Documentaire","5","2025-03-10"
-"58","6","140","The Deer Hunter","Documentaire","4","2025-12-09"
-"59","6","58","Top Gun","Action","1","2025-08-27"
-"60","7","7","Fight Club","Animation","3","2024-06-26"
-"61","7","24","Schindlers List","Horreur","1","2026-01-16"
-"62","7","59","Top Gun: Maverick","Romance","4","2024-12-01"
-"63","7","173","Lost in Translation","Romance","4","2025-11-18"
-"64","7","148","Ghostbusters","Drame","2","2025-03-16"
-"65","7","151","The Mask","Horreur","4","2026-01-25"
-"66","8","86","Finding Dory","Aventure","3","2025-10-25"
-"67","8","83","Toy Story 3","Comedie","4","2026-04-14"
-"68","8","172","Her","Aventure","1","2025-12-20"
-"69","8","27","The Usual Suspects","Aventure","1","2025-09-13"
-"70","8","42","Avatar: The Way of Water","Comedie","3","2025-04-23"
-"71","8","85","Finding Nemo","Animation","1","2025-05-02"
-"72","8","106","Ice Age","Drame","5","2025-07-23"
-"73","8","178","Parasite","Drame","5","2024-06-06"
-"74","9","93","The Incredibles","Comedie","2","2025-12-19"
-"75","9","160","Clueless","Drame","4","2025-03-26"
-"76","9","194","The Raid","Aventure","4","2026-05-21"
-"77","9","128","Psycho","Comedie","1","2024-10-07"
-"78","9","161","Notting Hill","Thriller","5","2026-03-12"
-"79","9","114","Mulan","Animation","2","2025-02-05"
-"80","9","195","Slumdog Millionaire","Drame","5","2025-04-19"
-"81","9","14","Star Wars: The Empire Strikes Back","Comedie","5","2024-06-19"
-"82","9","53","John Wick","Science-Fiction","1","2025-07-27"
-"83","9","69","True Grit","Drame","1","2025-01-21"
-"84","10","75","Eternal Sunshine of the Spotless Mind","Drame","5","2026-02-08"
-"85","10","131","North by Northwest","Science-Fiction","1","2024-10-22"
-"86","10","181","The Host","Comedie","4","2025-03-14"
-"87","10","70","O Brother, Where Art Thou?","Comedie","5","2025-05-19"
-"88","10","107","Spider-Man: Into the Spider-Verse","Thriller","1","2025-03-05"
-"89","10","124","Citizen Kane","Science-Fiction","3","2025-03-21"
-"90","10","121","Bambi","Romance","5","2026-01-27"
-"91","10","63","Taxi Driver","Animation","4","2026-04-11"
-"92","10","117","Snow White and the Seven Dwarfs","Animation","4","2024-11-04"
-"93","10","142","Rambo: First Blood","Aventure","4","2025-12-08"
-"94","10","38","Kill Bill: Vol. 2","Documentaire","3","2025-05-24"
-"95","10","99","Turning Red","Science-Fiction","5","2025-12-22"
-"96","10","49","Predator","Comedie","4","2025-06-26"
-"97","11","60","Heat","Science-Fiction","4","2025-06-30"
-"98","11","199","Spotlight","Comedie","2","2026-04-15"
-"99","11","106","Ice Age","Drame","1","2025-10-25"
-"100","11","12","The Lord of the Rings: The Return of the King","Romance","5","2024-10-12"
-"101","11","82","Toy Story 2","Documentaire","3","2026-01-30"
-"102","11","191","Hero","Drame","4","2024-09-15"
-"103","11","122","Fantasia","Horreur","5","2024-09-15"
-"104","11","181","The Host","Comedie","1","2025-09-15"
-"106","12","68","The Big Lebowski","Documentaire","3","2025-06-29"
-"107","12","87","Monsters, Inc.","Comedie","4","2026-03-08"
-"108","12","160","Clueless","Drame","1","2025-12-11"
-"109","12","178","Parasite","Drame","1","2026-02-27"
-"110","12","102","Shrek 2","Horreur","3","2025-01-31"
-"111","12","167","Pride and Prejudice","Horreur","1","2025-01-23"
-"112","12","21","Back to the Future","Aventure","1","2025-08-23"
-"113","12","85","Finding Nemo","Animation","1","2026-03-15"
-"114","13","84","Toy Story 4","Aventure","3","2024-08-01"
-"116","14","145","The Breakfast Club","Comedie","5","2025-07-01"
-"117","14","175","Cinema Paradiso","Aventure","2","2026-05-05"
-"119","14","47","Terminator 2: Judgment Day","Science-Fiction","2","2024-10-29"
-"120","14","44","Blade Runner 2049","Romance","3","2025-09-20"
-"121","14","45","Alien","Documentaire","3","2025-09-18"
-"122","14","21","Back to the Future","Aventure","1","2026-04-18"
-"123","14","157","Superbad","Documentaire","3","2025-09-24"
-"124","15","151","The Mask","Horreur","2","2025-04-10"
-"125","15","77","The Grand Budapest Hotel","Science-Fiction","4","2025-07-03"
-"126","15","164","Sleepless in Seattle","Thriller","2","2024-09-22"
-"127","15","109","Frozen","Drame","5","2025-06-30"
-"128","15","177","The Intouchables","Animation","5","2025-06-07"
-"129","15","65","The Irishman","Thriller","3","2025-04-03"
-"130","15","117","Snow White and the Seven Dwarfs","Animation","4","2024-06-27"
-"131","16","128","Psycho","Comedie","2","2026-04-11"
-"132","16","74","The Truman Show","Horreur","1","2026-03-10"
-"133","16","199","Spotlight","Comedie","1","2026-03-09"
-"135","16","59","Top Gun: Maverick","Romance","5","2024-07-09"
-"136","16","156","The Hangover","Comedie","2","2025-06-13"
-"137","16","91","WALL-E","Science-Fiction","3","2024-09-05"
-"138","16","57","Mission: Impossible - Fallout","Aventure","4","2025-05-05"
-"139","16","163","When Harry Met Sally","Thriller","2","2024-12-01"
-"140","16","49","Predator","Comedie","5","2024-10-18"
-"141","16","159","Mean Girls","Animation","5","2025-06-14"
-"142","16","65","The Irishman","Thriller","3","2025-10-31"
-"143","16","174","Amelie","Animation","3","2024-11-20"
-"144","17","120","Pinocchio","Horreur","4","2025-01-22"
-"145","17","20","The Lion King","Science-Fiction","3","2025-12-27"
-"146","17","37","Kill Bill: Vol. 1","Documentaire","4","2024-09-05"
-"147","18","117","Snow White and the Seven Dwarfs","Animation","3","2026-04-24"
-"148","18","95","Cars","Comedie","4","2026-01-24"
-"149","18","173","Lost in Translation","Romance","3","2026-03-20"
-"150","19","159","Mean Girls","Animation","5","2025-05-06"
-"151","19","144","The Karate Kid","Documentaire","1","2025-01-17"
-"152","20","12","The Lord of the Rings: The Return of the King","Romance","1","2024-10-01"
-"153","20","10","The Lord of the Rings: The Fellowship of the Ring","Horreur","5","2025-01-31"
-"154","20","78","Moonrise Kingdom","Thriller","4","2024-10-21"
-"155","20","127","The Wizard of Oz","Drame","3","2025-09-12"
-"156","21","26","Se7en","Animation","3","2024-09-14"
-"157","21","126","Singin in the Rain","Romance","3","2025-12-14"
-"158","21","158","Bridesmaids","Thriller","4","2024-08-06"
-"159","21","105","Madagascar","Science-Fiction","2","2025-03-14"
-"160","21","72","Good Will Hunting","Action","4","2024-10-08"
-"161","21","9","Goodfellas","Animation","2","2024-09-06"
-"162","21","177","The Intouchables","Animation","5","2026-03-24"
-"163","21","95","Cars","Comedie","1","2024-06-26"
-"164","21","56","Mission: Impossible","Action","2","2025-05-12"
-"165","21","114","Mulan","Animation","5","2024-10-11"
-"166","21","61","Scarface","Documentaire","1","2025-01-01"
-"167","21","93","The Incredibles","Comedie","2","2025-12-24"
-"169","22","153","Ace Ventura: Pet Detective","Action","3","2025-12-10"
-"170","22","1","The Shawshank Redemption","Comedie","1","2024-11-30"
-"171","22","71","A Beautiful Mind","Comedie","1","2026-04-12"
-"173","23","61","Scarface","Documentaire","3","2025-09-07"
-"174","23","151","The Mask","Horreur","5","2025-11-12"
-"175","23","83","Toy Story 3","Comedie","4","2024-09-24"
-"176","23","5","Forrest Gump","Horreur","2","2025-11-02"
-"177","23","45","Alien","Documentaire","1","2026-02-24"
-"178","23","68","The Big Lebowski","Documentaire","5","2026-04-10"
-"179","23","14","Star Wars: The Empire Strikes Back","Comedie","4","2025-04-09"
-"180","23","33","The Wolf of Wall Street","Comedie","1","2026-03-25"
-"181","23","190","Crouching Tiger, Hidden Dragon","Horreur","4","2024-08-06"
-"182","23","108","Spider-Man: Across the Spider-Verse","Documentaire","4","2025-07-21"
-"183","23","135","Doctor Zhivago","Science-Fiction","1","2026-05-08"
-"184","23","30","The Prestige","Documentaire","4","2025-10-20"
-"185","23","191","Hero","Drame","1","2024-08-19"
-"186","24","71","A Beautiful Mind","Comedie","3","2025-12-18"
-"187","24","160","Clueless","Drame","5","2025-06-30"
-"188","24","163","When Harry Met Sally","Thriller","3","2025-11-30"
-"189","24","150","Mrs. Doubtfire","Thriller","5","2025-09-12"
-"190","25","167","Pride and Prejudice","Horreur","1","2025-08-04"
-"191","25","197","Argo","Animation","4","2025-04-21"
-"192","25","142","Rambo: First Blood","Aventure","3","2025-04-21"
-"193","25","185","Howls Moving Castle","Science-Fiction","2","2025-06-23"
-"194","25","56","Mission: Impossible","Action","4","2026-05-09"
-"195","25","111","Zootopia","Drame","1","2024-08-12"
-"196","25","116","The Little Mermaid","Animation","1","2024-08-31"
-"197","25","59","Top Gun: Maverick","Romance","1","2025-08-21"
-"198","25","106","Ice Age","Drame","2","2025-06-21"
-"199","25","87","Monsters, Inc.","Comedie","1","2025-12-26"
-"200","25","117","Snow White and the Seven Dwarfs","Animation","5","2026-01-26"
-"201","25","103","Kung Fu Panda","Science-Fiction","3","2026-01-01"
-"202","26","109","Frozen","Drame","1","2025-01-20"
-"203","26","185","Howls Moving Castle","Science-Fiction","5","2025-05-29"
-"204","26","14","Star Wars: The Empire Strikes Back","Comedie","1","2025-06-16"
-"205","26","74","The Truman Show","Horreur","5","2025-03-17"
-"206","26","154","Coming to America","Animation","4","2025-01-22"
-"207","26","80","Isle of Dogs","Action","5","2025-12-31"
-"208","26","91","WALL-E","Science-Fiction","5","2026-02-23"
-"209","26","27","The Usual Suspects","Aventure","5","2024-07-01"
-"210","26","148","Ghostbusters","Drame","3","2026-04-09"
-"211","26","130","Rear Window","Comedie","2","2024-07-04"
-"212","26","55","John Wick: Chapter 3 - Parabellum","Horreur","3","2025-03-11"
-"213","26","40","Once Upon a Time in Hollywood","Thriller","3","2025-05-18"
-"214","26","169","Before Sunrise","Romance","2","2024-06-11"
-"215","26","124","Citizen Kane","Science-Fiction","5","2024-10-29"
-"216","27","8","The Matrix","Science-Fiction","5","2025-05-03"
-"217","27","24","Schindlers List","Horreur","1","2026-02-05"
-"218","27","192","House of Flying Daggers","Comedie","2","2024-07-28"
-"219","27","136","The Sound of Music","Romance","5","2024-11-13"
-"220","27","56","Mission: Impossible","Action","1","2024-07-25"
-"221","27","97","Soul","Science-Fiction","4","2025-03-10"
-"222","27","108","Spider-Man: Across the Spider-Verse","Documentaire","4","2026-04-13"
-"223","27","117","Snow White and the Seven Dwarfs","Animation","5","2025-10-15"
-"224","27","88","Up","Aventure","4","2025-08-31"
-"225","27","41","Avatar","Documentaire","2","2025-03-11"
-"226","27","95","Cars","Comedie","1","2025-11-11"
-"227","27","80","Isle of Dogs","Action","4","2025-05-24"
-"228","28","152","Dumb and Dumber","Thriller","2","2025-04-09"
-"229","28","125","Gone with the Wind","Animation","3","2024-10-23"
-"230","28","135","Doctor Zhivago","Science-Fiction","3","2025-03-28"
-"231","28","171","Before Midnight","Animation","1","2024-10-05"
-"232","28","79","Fantastic Mr. Fox","Horreur","4","2025-10-27"
-"233","28","12","The Lord of the Rings: The Return of the King","Romance","2","2024-12-01"
-"234","28","57","Mission: Impossible - Fallout","Aventure","5","2025-06-29"
-"235","28","102","Shrek 2","Horreur","2","2026-05-26"
-"236","28","154","Coming to America","Animation","5","2025-10-30"
-"237","28","15","Star Wars: Return of the Jedi","Romance","3","2026-04-20"
-"238","28","2","The Godfather","Horreur","4","2024-08-17"
-"239","28","53","John Wick","Science-Fiction","4","2024-07-18"
-"240","29","81","Toy Story","Action","3","2026-05-12"
-"241","29","148","Ghostbusters","Drame","4","2024-09-03"
-"242","29","110","Moana","Aventure","2","2024-09-21"
-"243","29","147","Groundhog Day","Science-Fiction","5","2025-08-25"
-"244","29","104","How to Train Your Dragon","Action","5","2025-07-20"
-"245","29","182","Spirited Away","Thriller","4","2024-08-24"
-"246","29","164","Sleepless in Seattle","Thriller","3","2025-04-18"
-"247","29","107","Spider-Man: Into the Spider-Verse","Thriller","3","2025-01-17"
-"248","29","75","Eternal Sunshine of the Spotless Mind","Drame","1","2024-11-24"
-"249","29","30","The Prestige","Documentaire","1","2025-11-09"
-"250","29","6","Inception","Documentaire","5","2025-11-30"
-"251","29","84","Toy Story 4","Aventure","3","2024-12-20"
-"252","29","44","Blade Runner 2049","Romance","2","2025-05-30"
-"253","29","159","Mean Girls","Animation","1","2025-02-01"
-"254","29","118","Cinderella","Science-Fiction","3","2024-11-01"
-"255","30","195","Slumdog Millionaire","Drame","4","2026-03-10"
-"256","30","168","A Star Is Born","Horreur","5","2025-09-23"
-"257","30","20","The Lion King","Science-Fiction","4","2026-01-19"
-"258","30","46","Aliens","Thriller","5","2026-05-03"
-"259","31","18","Titanic","Animation","5","2025-05-31"
-"260","31","121","Bambi","Romance","3","2024-08-19"
-"261","31","114","Mulan","Animation","4","2025-09-20"
-"262","31","162","Pretty Woman","Science-Fiction","1","2024-07-13"
-"263","31","78","Moonrise Kingdom","Thriller","3","2025-06-17"
-"265","31","71","A Beautiful Mind","Comedie","5","2026-02-24"
-"266","31","152","Dumb and Dumber","Thriller","4","2025-11-06"
-"267","31","15","Star Wars: Return of the Jedi","Romance","5","2025-09-21"
-"268","32","122","Fantasia","Horreur","1","2024-11-28"
-"269","32","129","Vertigo","Romance","4","2025-02-13"
-"270","32","39","The Hateful Eight","Comedie","5","2025-08-28"
-"271","32","16","Interstellar","Action","5","2025-11-22"
-"272","32","116","The Little Mermaid","Animation","3","2024-11-14"
-"273","32","27","The Usual Suspects","Aventure","3","2025-06-21"
-"274","32","88","Up","Aventure","4","2025-07-06"
-"275","32","183","Princess Mononoke","Animation","5","2025-05-17"
-"276","32","22","The Silence of the Lambs","Horreur","3","2024-07-28"
-"277","32","130","Rear Window","Comedie","3","2024-08-11"
-"278","32","166","The Notebook","Documentaire","5","2024-09-09"
-"279","33","169","Before Sunrise","Romance","1","2026-05-31"
-"280","33","155","Beverly Hills Cop","Thriller","5","2025-04-18"
-"281","33","39","The Hateful Eight","Comedie","3","2025-06-25"
-"282","33","86","Finding Dory","Aventure","5","2024-10-13"
-"283","33","21","Back to the Future","Aventure","4","2024-09-08"
-"284","33","150","Mrs. Doubtfire","Thriller","3","2025-11-07"
-"285","33","170","Before Sunset","Action","3","2024-06-23"
-"286","33","37","Kill Bill: Vol. 1","Documentaire","2","2025-04-17"
-"287","33","90","Coco","Horreur","3","2025-01-10"
-"288","33","80","Isle of Dogs","Action","2","2025-10-15"
-"289","33","168","A Star Is Born","Horreur","2","2025-01-22"
-"290","33","179","Oldboy","Aventure","1","2024-11-10"
-"291","33","101","Shrek","Drame","1","2025-04-03"
-"292","33","34","Django Unchained","Drame","5","2025-11-06"
-"293","33","153","Ace Ventura: Pet Detective","Action","1","2025-11-26"
-"294","34","47","Terminator 2: Judgment Day","Science-Fiction","4","2024-11-21"
-"295","34","178","Parasite","Drame","4","2024-07-19"
-"296","34","198","Birdman","Aventure","2","2025-06-13"
-"297","34","160","Clueless","Drame","5","2025-09-02"
-"298","35","80","Isle of Dogs","Action","5","2026-04-30"
-"300","35","121","Bambi","Romance","4","2025-03-20"
-"301","35","50","Die Hard","Drame","5","2025-11-01"
-"302","35","95","Cars","Comedie","2","2025-08-07"
-"303","36","65","The Irishman","Thriller","5","2025-09-08"
-"304","36","14","Star Wars: The Empire Strikes Back","Comedie","4","2024-11-02"
-"305","36","165","Youve Got Mail","Horreur","2","2024-09-06"
-"306","36","124","Citizen Kane","Science-Fiction","3","2025-09-09"
-"307","36","96","Brave","Drame","4","2024-07-02"
-"308","36","142","Rambo: First Blood","Aventure","4","2024-07-29"
-"309","36","27","The Usual Suspects","Aventure","3","2025-11-01"
-"310","36","183","Princess Mononoke","Animation","4","2025-02-01"
-"311","36","133","Lawrence of Arabia","Horreur","3","2024-08-27"
-"312","36","32","The Social Network","Horreur","1","2025-01-20"
-"313","36","73","Dead Poets Society","Drame","1","2025-04-27"
-"314","36","22","The Silence of the Lambs","Horreur","3","2026-04-01"
-"315","36","196","The Kings Speech","Action","2","2024-11-01"
-"316","36","42","Avatar: The Way of Water","Comedie","3","2024-07-14"
-"317","36","70","O Brother, Where Art Thou?","Comedie","2","2025-10-01"
-"318","37","66","No Country for Old Men","Comedie","5","2024-11-05"
-"319","37","56","Mission: Impossible","Action","5","2026-02-18"
-"320","38","32","The Social Network","Horreur","4","2026-03-04"
-"321","38","13","Star Wars: A New Hope","Thriller","1","2024-08-08"
-"322","38","62","Casino","Aventure","5","2025-10-29"
-"323","38","108","Spider-Man: Across the Spider-Verse","Documentaire","1","2025-12-05"
-"324","38","164","Sleepless in Seattle","Thriller","5","2026-03-14"
-"326","39","91","WALL-E","Science-Fiction","5","2025-11-25"
-"327","39","62","Casino","Aventure","5","2025-11-06"
-"328","39","147","Groundhog Day","Science-Fiction","1","2025-12-24"
-"329","39","107","Spider-Man: Into the Spider-Verse","Thriller","4","2025-07-09"
-"330","39","48","The Terminator","Aventure","4","2024-07-19"
-"331","39","171","Before Midnight","Animation","3","2025-06-22"
-"332","39","172","Her","Aventure","3","2024-06-21"
-"333","39","22","The Silence of the Lambs","Horreur","3","2024-08-13"
-"334","39","135","Doctor Zhivago","Science-Fiction","1","2025-02-06"
-"335","39","93","The Incredibles","Comedie","3","2026-01-21"
-"336","39","18","Titanic","Animation","1","2024-10-19"
-"337","40","45","Alien","Documentaire","1","2025-09-16"
-"338","40","200","Moonlight","Aventure","2","2025-04-01"
-"339","40","176","Life Is Beautiful","Science-Fiction","2","2024-07-19"
-"340","40","119","Sleeping Beauty","Animation","3","2024-07-17"
-"341","40","179","Oldboy","Aventure","5","2025-04-18"
-"342","40","123","Casablanca","Animation","5","2025-07-17"
-"343","40","162","Pretty Woman","Science-Fiction","3","2025-10-02"
-"344","40","47","Terminator 2: Judgment Day","Science-Fiction","2","2024-07-12"
-"345","40","35","Inglourious Basterds","Aventure","3","2025-03-24"
-"346","40","17","Gladiator","Comedie","3","2024-07-23"
-"347","40","184","My Neighbor Totoro","Romance","1","2025-03-11"
-"348","40","199","Spotlight","Comedie","4","2025-06-16"
-"349","41","128","Psycho","Comedie","3","2025-11-18"
-"350","41","178","Parasite","Drame","4","2024-08-28"
-"351","41","95","Cars","Comedie","4","2024-08-24"
-"353","42","170","Before Sunset","Action","4","2024-11-22"
-"354","42","76","La La Land","Science-Fiction","4","2025-05-30"
-"355","42","79","Fantastic Mr. Fox","Horreur","3","2024-07-18"
-"356","42","115","Hercules","Horreur","4","2026-02-24"
-"357","42","155","Beverly Hills Cop","Thriller","1","2025-03-13"
-"358","42","184","My Neighbor Totoro","Romance","4","2024-08-20"
-"359","42","110","Moana","Aventure","5","2025-06-12"
-"360","43","174","Amelie","Animation","5","2025-07-02"
-"362","43","113","Aladdin","Comedie","4","2024-11-09"
-"363","43","9","Goodfellas","Animation","3","2025-06-19"
-"364","43","33","The Wolf of Wall Street","Comedie","1","2025-09-02"
-"365","43","18","Titanic","Animation","2","2026-01-13"
-"366","43","61","Scarface","Documentaire","3","2025-11-29"
-"367","43","200","Moonlight","Aventure","3","2025-07-17"
-"368","43","166","The Notebook","Documentaire","3","2026-04-01"
-"369","43","94","The Incredibles 2","Documentaire","1","2025-02-15"
-"370","43","93","The Incredibles","Comedie","2","2024-07-01"
-"371","44","68","The Big Lebowski","Documentaire","4","2026-05-26"
-"372","44","199","Spotlight","Comedie","5","2025-01-10"
-"373","44","67","Fargo","Comedie","4","2025-03-24"
-"374","45","19","Jurassic Park","Drame","2","2025-04-08"
-"375","45","116","The Little Mermaid","Animation","2","2026-06-03"
-"376","45","45","Alien","Documentaire","5","2025-06-10"
-"377","45","183","Princess Mononoke","Animation","1","2025-01-20"
-"378","45","114","Mulan","Animation","2","2024-12-27"
-"379","45","23","Saving Private Ryan","Science-Fiction","4","2025-02-02"
-"380","45","175","Cinema Paradiso","Aventure","3","2024-07-01"
-"381","45","82","Toy Story 2","Documentaire","5","2025-12-24"
-"382","45","171","Before Midnight","Animation","4","2025-06-17"
-"383","45","89","Inside Out","Horreur","2","2025-12-21"
-"384","45","182","Spirited Away","Thriller","1","2026-02-21"
-"385","45","17","Gladiator","Comedie","3","2024-08-11"
-"386","45","141","Rocky","Science-Fiction","4","2025-07-17"
-"387","45","139","Full Metal Jacket","Aventure","4","2025-11-25"
-"388","45","75","Eternal Sunshine of the Spotless Mind","Drame","5","2025-07-29"
-"389","46","19","Jurassic Park","Drame","4","2024-10-15"
-"390","46","116","The Little Mermaid","Animation","1","2025-11-01"
-"391","46","120","Pinocchio","Horreur","5","2024-10-10"
-"392","46","175","Cinema Paradiso","Aventure","3","2024-11-08"
-"393","46","133","Lawrence of Arabia","Horreur","2","2024-11-20"
-"394","46","89","Inside Out","Horreur","2","2025-05-01"
-"395","46","33","The Wolf of Wall Street","Comedie","5","2025-05-25"
-"396","46","200","Moonlight","Aventure","1","2025-03-22"
-"397","46","142","Rambo: First Blood","Aventure","2","2025-02-16"
-"398","46","164","Sleepless in Seattle","Thriller","5","2026-03-17"
-"399","46","151","The Mask","Horreur","2","2025-03-13"
-"400","46","47","Terminator 2: Judgment Day","Science-Fiction","3","2026-03-07"
-"401","47","40","Once Upon a Time in Hollywood","Thriller","5","2024-07-21"
-"402","47","44","Blade Runner 2049","Romance","2","2025-03-03"
-"403","47","169","Before Sunrise","Romance","4","2026-01-11"
-"404","47","160","Clueless","Drame","1","2026-02-27"
-"405","47","185","Howls Moving Castle","Science-Fiction","5","2025-10-27"
-"406","47","155","Beverly Hills Cop","Thriller","3","2025-03-28"
-"407","47","87","Monsters, Inc.","Comedie","2","2025-10-12"
-"408","47","145","The Breakfast Club","Comedie","4","2026-05-07"
-"409","47","11","The Lord of the Rings: The Two Towers","Comedie","4","2025-04-05"
-"410","47","8","The Matrix","Science-Fiction","1","2024-08-18"
-"411","47","21","Back to the Future","Aventure","4","2024-11-13"
-"412","48","156","The Hangover","Comedie","2","2025-07-18"
-"413","48","37","Kill Bill: Vol. 1","Documentaire","5","2025-06-19"
-"414","48","81","Toy Story","Action","1","2026-01-01"
-"415","48","184","My Neighbor Totoro","Romance","2","2025-04-27"
-"416","48","82","Toy Story 2","Documentaire","1","2025-09-25"
-"417","48","188","Akira","Romance","4","2025-03-05"
-"418","48","89","Inside Out","Horreur","2","2025-02-13"
-"419","49","158","Bridesmaids","Thriller","2","2024-12-16"
-"420","49","108","Spider-Man: Across the Spider-Verse","Documentaire","5","2025-10-28"
-"421","49","64","Raging Bull","Animation","4","2025-09-26"
-"422","49","41","Avatar","Documentaire","4","2025-04-16"
-"423","49","84","Toy Story 4","Aventure","1","2024-06-28"
-"424","49","148","Ghostbusters","Drame","5","2025-07-12"
-"425","49","185","Howls Moving Castle","Science-Fiction","2","2025-09-16"
-"426","49","81","Toy Story","Action","5","2025-01-11"
-"427","50","153","Ace Ventura: Pet Detective","Action","3","2024-10-20"
-"428","50","168","A Star Is Born","Horreur","4","2025-06-14"
-"429","50","173","Lost in Translation","Romance","1","2025-06-14"
-"430","50","121","Bambi","Romance","1","2025-07-20"
-"431","50","74","The Truman Show","Horreur","5","2026-01-09"
-"432","50","138","Platoon","Animation","3","2024-12-21"
-"433","50","3","The Dark Knight","Documentaire","3","2025-12-23"
-"434","50","28","The Departed","Thriller","4","2024-08-19"
-"435","50","111","Zootopia","Drame","4","2025-11-03"
+history_id,user_id,movie,genre,director,rating,watch_date,year,month
+1,157,WALL-E,Animation,Andrew Stanton,1.0,2026-03-25,2026,3
+1,152,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,5.0,2026-03-22,2026,3
+2,60,Before Sunrise,Romance,Richard Linklater,2.0,2026-03-20,2026,3
+2,174,The Grand Budapest Hotel,Comédie,Wes Anderson,2.0,2025-10-25,2025,10
+2,92,Arrival,Science-Fiction,Denis Villeneuve,5.0,2024-12-09,2024,12
+2,183,The Matrix,Science-Fiction,"Lana Wachowski, Lilly Wachowski",1.0,2025-05-19,2025,5
+3,121,Saving Private Ryan,Guerre,Steven Spielberg,1.0,2024-09-10,2024,9
+3,14,Hereditary,Horreur,Ari Aster,2.0,2025-03-30,2025,3
+3,21,Get Out,Horreur,Jordan Peele,4.0,2026-01-04,2026,1
+3,4,Before Sunrise,Romance,Richard Linklater,4.0,2025-03-28,2025,3
+4,5,The Lord of the Rings: The Fellowship of the Ring,Aventure,Peter Jackson,3.0,2026-03-03,2026,3
+4,177,Titanic,Romance,James Cameron,2.0,2025-02-17,2025,2
+4,3,Parasite,Thriller,Bong Joon-ho,1.0,2025-04-23,2025,4
+4,108,Saving Private Ryan,Guerre,Steven Spielberg,3.0,2025-10-09,2025,10
+4,28,The Shining,Horreur,Stanley Kubrick,3.0,2024-08-27,2024,8
+4,104,Mission Impossible: Fallout,Action,Christopher McQuarrie,5.0,2024-10-26,2024,10
+5,4,The Pursuit of Happyness,Drame,Gabriele Muccino,3.0,2025-06-24,2025,6
+5,193,Jurassic Park,Aventure,Steven Spielberg,4.0,2024-07-14,2024,7
+5,78,Pulp Fiction,Crime,Quentin Tarantino,1.0,2025-07-17,2025,7
+6,12,Se7en,Thriller,David Fincher,3.0,2025-12-22,2025,12
+6,73,Oppenheimer,Historique,Christopher Nolan,2.0,2024-10-25,2024,10
+6,162,Fight Club,Drame,David Fincher,5.0,2024-09-29,2024,9
+6,95,Spirited Away,Animé,Hayao Miyazaki,4.0,2025-12-25,2025,12
+6,42,Parasite,Thriller,Bong Joon-ho,4.0,2025-04-27,2025,4
+6,89,John Wick,Action,Chad Stahelski,1.0,2024-07-18,2024,7
+7,91,The Matrix,Science-Fiction,"Lana Wachowski, Lilly Wachowski",3.0,2025-01-18,2025,1
+7,104,Pirates of the Caribbean,Aventure,Gore Verbinski,5.0,2026-01-22,2026,1
+7,85,The Pursuit of Happyness,Drame,Gabriele Muccino,4.0,2024-12-27,2024,12
+7,104,Mad Max: Fury Road,Action,George Miller,2.0,2026-03-15,2026,3
+7,34,A Quiet Place,Horreur,John Krasinski,1.0,2024-08-09,2024,8
+8,128,Parasite,Thriller,Bong Joon-ho,2.0,2026-05-04,2026,5
+8,22,A Quiet Place,Horreur,John Krasinski,5.0,2024-10-20,2024,10
+9,170,Prisoners,Thriller,Denis Villeneuve,3.0,2025-06-05,2025,6
+10,53,Interstellar,Science-Fiction,Christopher Nolan,3.0,2024-06-20,2024,6
+10,65,Whiplash,Drame,Damien Chazelle,1.0,2024-09-17,2024,9
+11,63,Die Hard,Action,John McTiernan,1.0,2025-04-08,2025,4
+12,43,Inside Out,Animation,Pete Docter,3.0,2026-04-18,2026,4
+12,171,Zodiac,Thriller,David Fincher,5.0,2025-07-10,2025,7
+13,71,Jurassic Park,Aventure,Steven Spielberg,1.0,2026-01-05,2026,1
+14,106,Die Hard,Action,John McTiernan,5.0,2025-01-09,2025,1
+15,139,Arrival,Science-Fiction,Denis Villeneuve,2.0,2026-05-03,2026,5
+15,40,The Imitation Game,Historique,Morten Tyldum,5.0,2026-01-05,2026,1
+15,43,Schindler's List,Historique,Steven Spielberg,5.0,2025-12-20,2025,12
+15,4,Bruce Almighty,Comédie,Tom Shadyac,3.0,2025-09-15,2025,9
+16,118,Zodiac,Thriller,David Fincher,1.0,2025-09-02,2025,9
+17,124,A Star Is Born,Romance,Bradley Cooper,2.0,2025-06-28,2025,6
+18,21,A Beautiful Mind,Drame,Ron Howard,4.0,2025-07-31,2025,7
+18,151,Zodiac,Thriller,David Fincher,1.0,2025-01-20,2025,1
+18,145,The Hangover,Comédie,Todd Phillips,4.0,2024-11-22,2024,11
+18,188,A Quiet Place,Horreur,John Krasinski,5.0,2024-10-16,2024,10
+19,24,Pirates of the Caribbean,Aventure,Gore Verbinski,1.0,2025-07-29,2025,7
+19,200,The Departed,Crime,Martin Scorsese,4.0,2026-04-01,2026,4
+19,17,The Notebook,Romance,Nick Cassavetes,3.0,2026-04-25,2026,4
+19,75,Dunkirk,Guerre,Christopher Nolan,4.0,2025-04-02,2025,4
+19,82,The Hangover,Comédie,Todd Phillips,2.9862595419847326,2025-07-17,2025,7
+20,200,Before Sunrise,Romance,Richard Linklater,2.0,2025-11-09,2025,11
+20,155,The Conjuring,Horreur,James Wan,5.0,2025-02-06,2025,2
+20,95,The Social Network,Drame,David Fincher,1.0,2025-06-03,2025,6
+20,11,Blade Runner 2049,Science-Fiction,Denis Villeneuve,2.0,2025-05-10,2025,5
+20,95,Home Alone,Comédie,Chris Columbus,5.0,2025-11-24,2025,11
+21,14,Blade Runner 2049,Science-Fiction,Denis Villeneuve,1.0,2026-04-24,2026,4
+22,132,The Imitation Game,Historique,Morten Tyldum,1.0,2025-10-25,2025,10
+22,21,Jurassic Park,Aventure,Steven Spielberg,5.0,2025-01-04,2025,1
+22,10,Zodiac,Thriller,David Fincher,3.0,2025-05-19,2025,5
+22,23,Goodfellas,Crime,Martin Scorsese,5.0,2024-08-18,2024,8
+22,159,The Godfather,Crime,Francis Ford Coppola,2.0,2025-03-06,2025,3
+22,113,The Shining,Horreur,Stanley Kubrick,1.0,2024-07-14,2024,7
+23,46,Casino,Crime,Martin Scorsese,5.0,2026-05-28,2026,5
+23,133,Fight Club,Drame,David Fincher,1.0,2025-07-25,2025,7
+24,184,Goodfellas,Crime,Martin Scorsese,4.0,2025-11-12,2025,11
+24,42,The Dark Knight,Action,Christopher Nolan,3.0,2026-03-14,2026,3
+24,164,Mission Impossible: Fallout,Action,Christopher McQuarrie,3.0,2024-08-11,2024,8
+24,51,Interstellar,Science-Fiction,Christopher Nolan,1.0,2025-03-20,2025,3
+25,63,Yes Man,Comédie,Peyton Reed,2.0,2025-07-17,2025,7
+26,177,Pirates of the Caribbean,Aventure,Gore Verbinski,3.0,2025-06-09,2025,6
+27,170,The Dark Knight,Action,Christopher Nolan,2.0,2025-12-12,2025,12
+27,41,Ex Machina,Science-Fiction,Alex Garland,1.0,2026-04-19,2026,4
+27,59,Dunkirk,Guerre,Christopher Nolan,1.0,2026-05-25,2026,5
+27,95,A Star Is Born,Romance,Bradley Cooper,3.0,2024-12-23,2024,12
+27,53,The Imitation Game,Historique,Morten Tyldum,3.0,2026-05-13,2026,5
+27,52,Jurassic Park,Aventure,Steven Spielberg,4.0,2025-04-16,2025,4
+28,38,Ex Machina,Science-Fiction,Alex Garland,2.0,2025-02-22,2025,2
+28,22,The Departed,Crime,Martin Scorsese,3.0,2025-03-05,2025,3
+28,185,The Conjuring,Horreur,James Wan,5.0,2024-10-29,2024,10
+28,62,Pirates of the Caribbean,Aventure,Gore Verbinski,1.0,2025-10-13,2025,10
+28,38,The Hangover,Comédie,Todd Phillips,4.0,2025-03-02,2025,3
+29,3,Casino,Crime,Martin Scorsese,1.0,2025-09-16,2025,9
+29,57,Jurassic Park,Aventure,Steven Spielberg,4.0,2025-12-11,2025,12
+29,149,Bruce Almighty,Comédie,Tom Shadyac,3.0,2025-12-09,2025,12
+29,67,The Revenant,Aventure,Alejandro G. Inarritu,5.0,2025-09-01,2025,9
+30,55,A Quiet Place,Horreur,John Krasinski,5.0,2025-06-05,2025,6
+30,165,Heat,Crime,Michael Mann,1.0,2024-06-09,2024,6
+31,78,Titanic,Romance,James Cameron,5.0,2025-01-20,2025,1
+31,173,Die Hard,Action,John McTiernan,1.0,2025-06-07,2025,6
+32,158,Interstellar,Science-Fiction,Christopher Nolan,3.0,2024-12-15,2024,12
+32,155,The Notebook,Romance,Nick Cassavetes,4.0,2024-08-20,2024,8
+33,41,Mad Max: Fury Road,Action,George Miller,4.0,2025-01-27,2025,1
+33,12,WALL-E,Animation,Andrew Stanton,1.0,2025-12-03,2025,12
+33,41,Parasite,Thriller,Bong Joon-ho,2.0,2026-02-15,2026,2
+34,200,Jurassic Park,Aventure,Steven Spielberg,2.0,2025-08-04,2025,8
+35,24,Oppenheimer,Historique,Christopher Nolan,1.0,2024-10-24,2024,10
+35,119,Bruce Almighty,Comédie,Tom Shadyac,3.0,2025-01-07,2025,1
+35,198,Parasite,Thriller,Bong Joon-ho,2.0,2024-12-21,2024,12
+35,190,Inception,Science-Fiction,Christopher Nolan,2.0,2026-03-27,2026,3
+36,17,Titanic,Romance,James Cameron,2.9862595419847326,2024-07-05,2024,7
+36,58,Die Hard,Action,John McTiernan,2.0,2025-05-15,2025,5
+36,77,A Beautiful Mind,Drame,Ron Howard,2.0,2025-02-15,2025,2
+36,198,The Departed,Crime,Martin Scorsese,2.0,2026-02-10,2026,2
+36,184,Casino,Crime,Martin Scorsese,4.0,2025-08-25,2025,8
+37,183,Mission Impossible: Fallout,Action,Christopher McQuarrie,4.0,2025-12-05,2025,12
+38,47,A Quiet Place,Horreur,John Krasinski,2.0,2026-01-20,2026,1
+38,79,Die Hard,Action,John McTiernan,4.0,2025-06-15,2025,6
+38,153,The Hangover,Comédie,Todd Phillips,3.0,2025-04-21,2025,4
+38,156,Whiplash,Drame,Damien Chazelle,3.0,2025-02-01,2025,2
+38,141,The Departed,Crime,Martin Scorsese,3.0,2025-07-25,2025,7
+39,135,The Godfather,Crime,Francis Ford Coppola,1.0,2025-08-30,2025,8
+39,98,Gladiator,Action,Ridley Scott,2.0,2024-07-15,2024,7
+39,48,The Matrix,Science-Fiction,"Lana Wachowski, Lilly Wachowski",2.0,2025-10-22,2025,10
+39,37,Ex Machina,Science-Fiction,Alex Garland,3.0,2025-02-20,2025,2
+39,108,The Hobbit: An Unexpected Journey,Aventure,Peter Jackson,1.0,2025-09-25,2025,9
+40,1,Saving Private Ryan,Guerre,Steven Spielberg,5.0,2024-12-20,2024,12
+40,122,The Godfather,Crime,Francis Ford Coppola,4.0,2024-11-28,2024,11
+40,32,The Grand Budapest Hotel,Comédie,Wes Anderson,2.0,2024-11-18,2024,11
+40,78,Mission Impossible: Fallout,Action,Christopher McQuarrie,2.0,2026-05-01,2026,5
+40,122,Interstellar,Science-Fiction,Christopher Nolan,1.0,2025-02-22,2025,2
+40,90,Mad Max: Fury Road,Action,George Miller,5.0,2025-05-16,2025,5
+41,150,Oppenheimer,Historique,Christopher Nolan,1.0,2024-10-29,2024,10
+41,62,The Hangover,Comédie,Todd Phillips,4.0,2024-11-14,2024,11
+41,92,Hereditary,Horreur,Ari Aster,5.0,2024-09-29,2024,9
+42,200,Pirates of the Caribbean,Aventure,Gore Verbinski,1.0,2025-04-18,2025,4
+42,176,Se7en,Thriller,David Fincher,1.0,2025-11-27,2025,11
+42,157,A Quiet Place,Horreur,John Krasinski,1.0,2024-12-25,2024,12
+42,160,Heat,Crime,Michael Mann,2.0,2025-10-08,2025,10
+42,103,The Hangover,Comédie,Todd Phillips,5.0,2024-10-25,2024,10
+43,166,A Beautiful Mind,Drame,Ron Howard,1.0,2024-10-22,2024,10
+43,159,La La Land,Romance,Damien Chazelle,2.0,2025-04-18,2025,4
+43,68,A Star Is Born,Romance,Bradley Cooper,3.0,2024-08-12,2024,8
+44,107,Die Hard,Action,John McTiernan,5.0,2026-05-16,2026,5
+45,54,Casino,Crime,Martin Scorsese,2.0,2024-08-21,2024,8
+45,78,Gone Girl,Thriller,David Fincher,4.0,2026-03-23,2026,3
+45,150,Home Alone,Comédie,Chris Columbus,4.0,2025-02-27,2025,2
+45,173,Se7en,Thriller,David Fincher,2.0,2025-11-08,2025,11
+45,191,Schindler's List,Historique,Steven Spielberg,5.0,2025-10-14,2025,10
+46,148,It,Horreur,Andy Muschietti,5.0,2026-03-04,2026,3
+46,135,Ex Machina,Science-Fiction,Alex Garland,5.0,2024-12-13,2024,12
+46,67,Gladiator,Action,Ridley Scott,2.0,2026-01-01,2026,1
+46,131,The Departed,Crime,Martin Scorsese,4.0,2024-12-20,2024,12
+47,81,A Beautiful Mind,Drame,Ron Howard,3.0,2024-06-25,2024,6
+47,78,1917,Guerre,Sam Mendes,1.0,2024-06-07,2024,6
+48,1,The Conjuring,Horreur,James Wan,5.0,2024-12-07,2024,12
+48,160,Ratatouille,Animation,Brad Bird,2.0,2025-02-12,2025,2
+48,1,Parasite,Thriller,Bong Joon-ho,5.0,2025-02-13,2025,2
+48,122,Toy Story,Animation,John Lasseter,5.0,2025-05-06,2025,5
+48,184,Blade Runner 2049,Science-Fiction,Denis Villeneuve,1.0,2024-12-21,2024,12
+48,34,Spirited Away,Animé,Hayao Miyazaki,4.0,2024-09-19,2024,9
+49,113,Oldboy,Thriller,Park Chan-wook,2.0,2026-01-12,2026,1
+49,45,WALL-E,Animation,Andrew Stanton,4.0,2025-10-19,2025,10
+50,2,Hereditary,Horreur,Ari Aster,5.0,2024-07-05,2024,7
+50,166,Whiplash,Drame,Damien Chazelle,3.0,2026-04-10,2026,4
+50,170,The Shining,Horreur,Stanley Kubrick,3.0,2025-04-14,2025,4
+51,86,Schindler's List,Historique,Steven Spielberg,1.0,2025-02-13,2025,2
+52,93,The Grand Budapest Hotel,Comédie,Wes Anderson,1.0,2025-07-09,2025,7
+52,194,Schindler's List,Historique,Steven Spielberg,4.0,2025-08-27,2025,8
+52,185,Get Out,Horreur,Jordan Peele,1.0,2024-12-26,2024,12
+53,100,The Lord of the Rings: The Fellowship of the Ring,Aventure,Peter Jackson,5.0,2025-02-20,2025,2
+53,22,The Pursuit of Happyness,Drame,Gabriele Muccino,5.0,2025-09-27,2025,9
+54,30,Mad Max: Fury Road,Action,George Miller,1.0,2025-09-17,2025,9
+54,19,The Matrix,Science-Fiction,"Lana Wachowski, Lilly Wachowski",5.0,2026-05-05,2026,5
+54,154,Die Hard,Action,John McTiernan,4.0,2024-11-22,2024,11
+54,169,A Beautiful Mind,Drame,Ron Howard,5.0,2026-03-21,2026,3
+55,20,Bruce Almighty,Comédie,Tom Shadyac,5.0,2024-09-06,2024,9
+55,62,Pirates of the Caribbean,Aventure,Gore Verbinski,4.0,2024-10-08,2024,10
+55,124,Before Sunrise,Romance,Richard Linklater,2.0,2024-06-22,2024,6
+55,192,Spirited Away,Animé,Hayao Miyazaki,5.0,2026-01-01,2026,1
+56,54,Home Alone,Comédie,Chris Columbus,3.0,2024-09-18,2024,9
+56,6,Inception,Science-Fiction,Christopher Nolan,2.9862595419847326,2025-01-06,2025,1
+57,6,The Dark Knight,Action,Christopher Nolan,1.0,2025-01-31,2025,1
+57,95,Yes Man,Comédie,Peyton Reed,4.0,2024-11-20,2024,11
+57,129,Spirited Away,Animé,Hayao Miyazaki,4.0,2026-01-20,2026,1
+58,89,The Pursuit of Happyness,Drame,Gabriele Muccino,2.0,2025-10-24,2025,10
+58,9,Jurassic Park,Aventure,Steven Spielberg,4.0,2025-03-25,2025,3
+58,88,Se7en,Thriller,David Fincher,3.0,2025-07-21,2025,7
+58,40,The Imitation Game,Historique,Morten Tyldum,5.0,2025-01-22,2025,1
+58,43,Gladiator,Action,Ridley Scott,5.0,2025-08-09,2025,8
+59,170,Prisoners,Thriller,Denis Villeneuve,2.0,2025-10-10,2025,10
+60,160,Bruce Almighty,Comédie,Tom Shadyac,4.0,2024-11-29,2024,11
+60,56,The Revenant,Aventure,Alejandro G. Inarritu,2.0,2026-03-30,2026,3
+60,140,Pulp Fiction,Crime,Quentin Tarantino,2.9862595419847326,2025-03-29,2025,3
+60,114,Ex Machina,Science-Fiction,Alex Garland,2.0,2024-10-01,2024,10
+60,189,Se7en,Thriller,David Fincher,2.9862595419847326,2026-02-13,2026,2
+60,172,A Beautiful Mind,Drame,Ron Howard,5.0,2025-11-15,2025,11
+61,130,The Imitation Game,Historique,Morten Tyldum,3.0,2024-07-30,2024,7
+61,8,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,5.0,2025-11-27,2025,11
+61,56,Ex Machina,Science-Fiction,Alex Garland,2.0,2026-01-01,2026,1
+61,39,Se7en,Thriller,David Fincher,5.0,2025-09-12,2025,9
+62,59,Se7en,Thriller,David Fincher,5.0,2024-11-09,2024,11
+63,117,Hereditary,Horreur,Ari Aster,2.0,2024-07-09,2024,7
+63,145,Superbad,Comédie,Greg Mottola,1.0,2025-03-25,2025,3
+64,189,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,5.0,2025-02-14,2025,2
+64,63,A Beautiful Mind,Drame,Ron Howard,1.0,2026-03-24,2026,3
+64,83,Get Out,Horreur,Jordan Peele,1.0,2026-01-12,2026,1
+65,23,Pride and Prejudice,Romance,Joe Wright,1.0,2025-01-15,2025,1
+65,72,Blade Runner 2049,Science-Fiction,Denis Villeneuve,2.0,2025-03-02,2025,3
+65,61,Interstellar,Science-Fiction,Christopher Nolan,2.9862595419847326,2024-06-15,2024,6
+65,178,The Grand Budapest Hotel,Comédie,Wes Anderson,5.0,2025-11-05,2025,11
+65,175,Dunkirk,Guerre,Christopher Nolan,5.0,2026-03-10,2026,3
+66,37,The Pursuit of Happyness,Drame,Gabriele Muccino,4.0,2024-07-20,2024,7
+66,4,Parasite,Thriller,Bong Joon-ho,3.0,2024-11-08,2024,11
+66,115,Casino,Crime,Martin Scorsese,5.0,2025-05-24,2025,5
+66,16,Goodfellas,Crime,Martin Scorsese,2.0,2025-07-20,2025,7
+66,33,Inception,Science-Fiction,Christopher Nolan,4.0,2025-01-08,2025,1
+66,115,WALL-E,Animation,Andrew Stanton,4.0,2024-10-30,2024,10
+67,141,The Hobbit: An Unexpected Journey,Aventure,Peter Jackson,2.0,2025-03-30,2025,3
+67,48,The Social Network,Drame,David Fincher,3.0,2025-11-05,2025,11
+67,29,Arrival,Science-Fiction,Denis Villeneuve,2.0,2024-07-18,2024,7
+67,113,Fight Club,Drame,David Fincher,5.0,2026-06-03,2026,6
+68,27,1917,Guerre,Sam Mendes,2.0,2025-01-09,2025,1
+68,182,The Imitation Game,Historique,Morten Tyldum,2.0,2024-06-24,2024,6
+69,36,The Conjuring,Horreur,James Wan,3.0,2025-05-14,2025,5
+69,173,Ex Machina,Science-Fiction,Alex Garland,1.0,2026-03-28,2026,3
+69,84,The Pursuit of Happyness,Drame,Gabriele Muccino,4.0,2025-03-19,2025,3
+70,58,Home Alone,Comédie,Chris Columbus,2.0,2024-10-10,2024,10
+70,34,The Godfather,Crime,Francis Ford Coppola,4.0,2024-08-21,2024,8
+70,163,Saving Private Ryan,Guerre,Steven Spielberg,5.0,2026-02-08,2026,2
+70,166,Bruce Almighty,Comédie,Tom Shadyac,4.0,2024-09-04,2024,9
+70,171,Prisoners,Thriller,Denis Villeneuve,5.0,2025-05-23,2025,5
+71,174,Saving Private Ryan,Guerre,Steven Spielberg,5.0,2024-11-02,2024,11
+71,11,Get Out,Horreur,Jordan Peele,5.0,2024-11-27,2024,11
+71,132,The Godfather,Crime,Francis Ford Coppola,1.0,2024-09-02,2024,9
+71,74,Parasite,Thriller,Bong Joon-ho,1.0,2024-09-04,2024,9
+71,108,Toy Story,Animation,John Lasseter,2.0,2025-11-17,2025,11
+72,123,Inside Out,Animation,Pete Docter,3.0,2026-03-31,2026,3
+73,161,Inception,Science-Fiction,Christopher Nolan,4.0,2024-09-29,2024,9
+73,197,The Pursuit of Happyness,Drame,Gabriele Muccino,4.0,2025-10-27,2025,10
+73,129,Jurassic Park,Aventure,Steven Spielberg,2.0,2025-09-27,2025,9
+73,199,Ex Machina,Science-Fiction,Alex Garland,2.0,2025-07-07,2025,7
+74,88,Hereditary,Horreur,Ari Aster,2.0,2026-04-01,2026,4
+75,154,Toy Story,Animation,John Lasseter,2.0,2026-02-03,2026,2
+76,147,Gladiator,Action,Ridley Scott,5.0,2025-05-22,2025,5
+77,98,It,Horreur,Andy Muschietti,1.0,2025-02-21,2025,2
+77,114,Inception,Science-Fiction,Christopher Nolan,1.0,2025-06-11,2025,6
+77,169,Mad Max: Fury Road,Action,George Miller,2.0,2026-01-11,2026,1
+77,117,Inside Out,Animation,Pete Docter,5.0,2025-12-09,2025,12
+77,137,Before Sunrise,Romance,Richard Linklater,5.0,2026-04-18,2026,4
+77,7,Se7en,Thriller,David Fincher,4.0,2026-02-25,2026,2
+78,132,Die Hard,Action,John McTiernan,4.0,2025-01-12,2025,1
+78,43,Blade Runner 2049,Science-Fiction,Denis Villeneuve,3.0,2024-06-17,2024,6
+78,163,Goodfellas,Crime,Martin Scorsese,5.0,2024-12-19,2024,12
+78,99,The Social Network,Drame,David Fincher,2.0,2025-07-09,2025,7
+78,180,Mad Max: Fury Road,Action,George Miller,4.0,2026-01-10,2026,1
+79,69,Pride and Prejudice,Romance,Joe Wright,4.0,2025-02-21,2025,2
+79,100,Gladiator,Action,Ridley Scott,2.0,2024-11-04,2024,11
+80,18,1917,Guerre,Sam Mendes,2.0,2025-06-16,2025,6
+80,128,Hereditary,Horreur,Ari Aster,1.0,2024-07-27,2024,7
+80,145,Forrest Gump,Drame,Robert Zemeckis,5.0,2024-07-14,2024,7
+80,110,Spirited Away,Animé,Hayao Miyazaki,1.0,2025-08-24,2025,8
+80,75,Inside Out,Animation,Pete Docter,4.0,2025-08-13,2025,8
+80,140,Zodiac,Thriller,David Fincher,1.0,2024-09-13,2024,9
+81,157,Ex Machina,Science-Fiction,Alex Garland,2.0,2026-05-12,2026,5
+82,56,The Pursuit of Happyness,Drame,Gabriele Muccino,1.0,2025-04-21,2025,4
+82,162,Toy Story,Animation,John Lasseter,1.0,2026-04-16,2026,4
+82,51,Gone Girl,Thriller,David Fincher,5.0,2024-10-05,2024,10
+82,53,The Notebook,Romance,Nick Cassavetes,4.0,2025-05-11,2025,5
+83,88,Ex Machina,Science-Fiction,Alex Garland,2.0,2025-02-06,2025,2
+84,122,WALL-E,Animation,Andrew Stanton,2.0,2024-11-16,2024,11
+84,45,Oldboy,Thriller,Park Chan-wook,2.0,2025-12-16,2025,12
+85,149,John Wick,Action,Chad Stahelski,4.0,2026-05-03,2026,5
+85,22,Hereditary,Horreur,Ari Aster,3.0,2026-04-19,2026,4
+86,6,Interstellar,Science-Fiction,Christopher Nolan,1.0,2025-01-28,2025,1
+86,89,Get Out,Horreur,Jordan Peele,5.0,2025-11-14,2025,11
+87,126,The Conjuring,Horreur,James Wan,5.0,2025-10-08,2025,10
+87,8,Pulp Fiction,Crime,Quentin Tarantino,2.0,2024-08-08,2024,8
+87,1,The Lord of the Rings: The Fellowship of the Ring,Aventure,Peter Jackson,5.0,2026-05-03,2026,5
+88,53,The Conjuring,Horreur,James Wan,1.0,2025-04-11,2025,4
+88,13,Blade Runner 2049,Science-Fiction,Denis Villeneuve,3.0,2025-06-20,2025,6
+88,107,The Matrix,Science-Fiction,"Lana Wachowski, Lilly Wachowski",2.0,2025-06-14,2025,6
+88,102,Inside Out,Animation,Pete Docter,2.0,2026-04-17,2026,4
+88,165,Bruce Almighty,Comédie,Tom Shadyac,5.0,2025-06-22,2025,6
+89,104,Saving Private Ryan,Guerre,Steven Spielberg,4.0,2025-01-29,2025,1
+89,71,Die Hard,Action,John McTiernan,4.0,2025-11-22,2025,11
+90,62,Titanic,Romance,James Cameron,3.0,2024-08-25,2024,8
+90,181,The Revenant,Aventure,Alejandro G. Inarritu,2.0,2026-01-08,2026,1
+90,122,Die Hard,Action,John McTiernan,4.0,2024-09-10,2024,9
+90,186,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,3.0,2025-03-27,2025,3
+90,136,John Wick,Action,Chad Stahelski,1.0,2025-07-18,2025,7
+91,142,Inside Out,Animation,Pete Docter,1.0,2026-03-23,2026,3
+92,14,WALL-E,Animation,Andrew Stanton,3.0,2024-12-22,2024,12
+92,102,John Wick,Action,Chad Stahelski,5.0,2025-11-14,2025,11
+92,71,The Imitation Game,Historique,Morten Tyldum,4.0,2026-04-25,2026,4
+92,191,Zodiac,Thriller,David Fincher,1.0,2025-03-18,2025,3
+93,176,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,2.0,2026-01-10,2026,1
+93,91,1917,Guerre,Sam Mendes,2.0,2025-12-22,2025,12
+93,31,The Hobbit: An Unexpected Journey,Aventure,Peter Jackson,5.0,2026-03-28,2026,3
+94,73,Schindler's List,Historique,Steven Spielberg,1.0,2024-08-22,2024,8
+94,11,The Godfather,Crime,Francis Ford Coppola,4.0,2025-10-13,2025,10
+94,7,Gone Girl,Thriller,David Fincher,1.0,2024-07-14,2024,7
+94,144,Oppenheimer,Historique,Christopher Nolan,4.0,2024-06-26,2024,6
+95,70,Prisoners,Thriller,Denis Villeneuve,1.0,2024-10-11,2024,10
+95,160,Heat,Crime,Michael Mann,3.0,2025-04-09,2025,4
+95,128,The Revenant,Aventure,Alejandro G. Inarritu,5.0,2025-11-22,2025,11
+95,160,The Departed,Crime,Martin Scorsese,5.0,2024-11-15,2024,11
+95,6,Whiplash,Drame,Damien Chazelle,1.0,2026-01-06,2026,1
+95,146,WALL-E,Animation,Andrew Stanton,4.0,2024-07-05,2024,7
+96,107,Pulp Fiction,Crime,Quentin Tarantino,3.0,2026-04-24,2026,4
+96,164,Zodiac,Thriller,David Fincher,3.0,2024-06-14,2024,6
+96,17,The Godfather,Crime,Francis Ford Coppola,2.0,2026-05-26,2026,5
+96,109,Hereditary,Horreur,Ari Aster,5.0,2026-04-29,2026,4
+97,39,The Hobbit: An Unexpected Journey,Aventure,Peter Jackson,2.0,2025-09-20,2025,9
+97,34,The Departed,Crime,Martin Scorsese,2.0,2025-04-04,2025,4
+97,169,WALL-E,Animation,Andrew Stanton,2.0,2025-10-24,2025,10
+98,166,The Social Network,Drame,David Fincher,4.0,2025-01-02,2025,1
+98,60,Whiplash,Drame,Damien Chazelle,4.0,2026-04-21,2026,4
+99,51,The Conjuring,Horreur,James Wan,2.0,2025-05-06,2025,5
+99,160,Pirates of the Caribbean,Aventure,Gore Verbinski,4.0,2025-07-21,2025,7
+99,60,The Hobbit: An Unexpected Journey,Aventure,Peter Jackson,2.0,2024-10-12,2024,10
+99,166,The Shining,Horreur,Stanley Kubrick,1.0,2026-01-11,2026,1
+99,117,Inside Out,Animation,Pete Docter,2.0,2025-11-07,2025,11
+99,69,Saving Private Ryan,Guerre,Steven Spielberg,3.0,2025-11-28,2025,11
+100,157,Titanic,Romance,James Cameron,4.0,2024-10-26,2024,10
+101,169,The Shining,Horreur,Stanley Kubrick,3.0,2024-09-22,2024,9
+101,130,Blade Runner 2049,Science-Fiction,Denis Villeneuve,1.0,2025-03-31,2025,3
+101,16,John Wick,Action,Chad Stahelski,2.9862595419847326,2025-08-04,2025,8
+102,13,Inception,Science-Fiction,Christopher Nolan,5.0,2026-04-24,2026,4
+102,97,Superbad,Comédie,Greg Mottola,3.0,2025-12-05,2025,12
+102,199,A Quiet Place,Horreur,John Krasinski,5.0,2025-09-19,2025,9
+102,184,The Imitation Game,Historique,Morten Tyldum,1.0,2024-11-14,2024,11
+102,54,Casino,Crime,Martin Scorsese,1.0,2025-09-10,2025,9
+102,86,The Social Network,Drame,David Fincher,1.0,2024-06-22,2024,6
+103,2,Mad Max: Fury Road,Action,George Miller,4.0,2026-01-28,2026,1
+103,167,Inside Out,Animation,Pete Docter,1.0,2026-04-26,2026,4
+103,98,Before Sunrise,Romance,Richard Linklater,3.0,2025-02-24,2025,2
+103,121,La La Land,Romance,Damien Chazelle,1.0,2024-06-30,2024,6
+104,142,Inside Out,Animation,Pete Docter,2.0,2026-05-12,2026,5
+105,11,1917,Guerre,Sam Mendes,2.0,2026-03-22,2026,3
+105,94,WALL-E,Animation,Andrew Stanton,5.0,2024-11-01,2024,11
+105,49,Casino,Crime,Martin Scorsese,4.0,2025-10-28,2025,10
+105,87,Mad Max: Fury Road,Action,George Miller,3.0,2025-12-14,2025,12
+105,171,Arrival,Science-Fiction,Denis Villeneuve,1.0,2024-12-01,2024,12
+106,53,Superbad,Comédie,Greg Mottola,2.0,2024-11-13,2024,11
+106,191,Yes Man,Comédie,Peyton Reed,2.0,2024-11-27,2024,11
+106,101,Pulp Fiction,Crime,Quentin Tarantino,5.0,2024-06-27,2024,6
+106,96,The Matrix,Science-Fiction,"Lana Wachowski, Lilly Wachowski",1.0,2025-04-22,2025,4
+106,172,Zodiac,Thriller,David Fincher,3.0,2026-04-05,2026,4
+106,91,Jurassic Park,Aventure,Steven Spielberg,5.0,2024-11-16,2024,11
+107,40,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,2.0,2024-12-21,2024,12
+107,70,The Conjuring,Horreur,James Wan,2.0,2025-08-14,2025,8
+107,122,Your Name,Animé,Makoto Shinkai,4.0,2025-04-17,2025,4
+107,124,The Shining,Horreur,Stanley Kubrick,2.9862595419847326,2025-11-05,2025,11
+108,148,The Godfather,Crime,Francis Ford Coppola,2.0,2025-09-27,2025,9
+109,136,Gone Girl,Thriller,David Fincher,2.0,2025-04-03,2025,4
+109,60,The Imitation Game,Historique,Morten Tyldum,5.0,2025-06-13,2025,6
+109,187,The Lord of the Rings: The Fellowship of the Ring,Aventure,Peter Jackson,5.0,2024-09-23,2024,9
+110,158,Home Alone,Comédie,Chris Columbus,3.0,2025-04-09,2025,4
+110,159,Ratatouille,Animation,Brad Bird,4.0,2026-03-06,2026,3
+110,158,Schindler's List,Historique,Steven Spielberg,4.0,2026-01-23,2026,1
+110,115,Interstellar,Science-Fiction,Christopher Nolan,3.0,2025-11-04,2025,11
+110,55,A Beautiful Mind,Drame,Ron Howard,1.0,2025-11-13,2025,11
+111,63,Yes Man,Comédie,Peyton Reed,3.0,2026-06-02,2026,6
+112,99,Superbad,Comédie,Greg Mottola,2.0,2024-09-16,2024,9
+112,150,Bruce Almighty,Comédie,Tom Shadyac,4.0,2026-05-20,2026,5
+112,37,The Conjuring,Horreur,James Wan,4.0,2026-03-27,2026,3
+113,71,Zodiac,Thriller,David Fincher,4.0,2026-02-25,2026,2
+113,91,Ex Machina,Science-Fiction,Alex Garland,1.0,2025-07-19,2025,7
+114,5,Titanic,Romance,James Cameron,4.0,2024-10-11,2024,10
+114,22,Blade Runner 2049,Science-Fiction,Denis Villeneuve,2.0,2026-01-03,2026,1
+114,142,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,2.0,2024-06-16,2024,6
+115,182,The Social Network,Drame,David Fincher,2.0,2025-04-27,2025,4
+115,78,Get Out,Horreur,Jordan Peele,2.0,2026-03-27,2026,3
+116,83,The Hangover,Comédie,Todd Phillips,5.0,2025-03-14,2025,3
+116,59,Titanic,Romance,James Cameron,2.0,2025-01-13,2025,1
+116,96,Fight Club,Drame,David Fincher,4.0,2025-09-17,2025,9
+116,110,The Matrix,Science-Fiction,"Lana Wachowski, Lilly Wachowski",4.0,2025-05-11,2025,5
+116,134,A Quiet Place,Horreur,John Krasinski,4.0,2024-10-20,2024,10
+117,169,Before Sunrise,Romance,Richard Linklater,1.0,2025-07-19,2025,7
+117,120,The Revenant,Aventure,Alejandro G. Inarritu,5.0,2025-12-25,2025,12
+117,171,Blade Runner 2049,Science-Fiction,Denis Villeneuve,1.0,2025-05-10,2025,5
+118,14,Before Sunrise,Romance,Richard Linklater,4.0,2026-05-31,2026,5
+118,103,Gone Girl,Thriller,David Fincher,2.0,2024-07-27,2024,7
+118,106,The Dark Knight,Action,Christopher Nolan,5.0,2025-04-01,2025,4
+118,124,Mission Impossible: Fallout,Action,Christopher McQuarrie,3.0,2025-07-10,2025,7
+118,96,Pirates of the Caribbean,Aventure,Gore Verbinski,1.0,2024-10-25,2024,10
+119,29,The Social Network,Drame,David Fincher,4.0,2026-05-29,2026,5
+119,197,A Quiet Place,Horreur,John Krasinski,4.0,2025-05-30,2025,5
+119,114,The Hangover,Comédie,Todd Phillips,1.0,2025-04-03,2025,4
+120,157,The Notebook,Romance,Nick Cassavetes,5.0,2025-03-08,2025,3
+121,118,A Star Is Born,Romance,Bradley Cooper,4.0,2025-11-06,2025,11
+121,58,Before Sunrise,Romance,Richard Linklater,1.0,2025-01-30,2025,1
+121,163,A Beautiful Mind,Drame,Ron Howard,4.0,2025-07-12,2025,7
+121,11,Casino,Crime,Martin Scorsese,5.0,2024-07-14,2024,7
+122,60,Superbad,Comédie,Greg Mottola,1.0,2026-03-22,2026,3
+122,51,Blade Runner 2049,Science-Fiction,Denis Villeneuve,4.0,2025-11-24,2025,11
+122,91,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,4.0,2024-11-30,2024,11
+123,171,Mission Impossible: Fallout,Action,Christopher McQuarrie,5.0,2025-10-25,2025,10
+123,64,Superbad,Comédie,Greg Mottola,5.0,2026-03-02,2026,3
+124,36,The Pursuit of Happyness,Drame,Gabriele Muccino,1.0,2026-01-30,2026,1
+124,65,Jurassic Park,Aventure,Steven Spielberg,4.0,2025-09-03,2025,9
+124,28,The Hangover,Comédie,Todd Phillips,5.0,2025-11-03,2025,11
+124,135,A Beautiful Mind,Drame,Ron Howard,1.0,2024-12-08,2024,12
+124,30,Casino,Crime,Martin Scorsese,3.0,2025-09-16,2025,9
+124,126,Schindler's List,Historique,Steven Spielberg,3.0,2026-03-29,2026,3
+125,78,It,Horreur,Andy Muschietti,2.0,2024-09-15,2024,9
+125,10,Heat,Crime,Michael Mann,1.0,2025-12-26,2025,12
+125,197,Prisoners,Thriller,Denis Villeneuve,2.0,2026-03-18,2026,3
+126,30,The Departed,Crime,Martin Scorsese,5.0,2026-01-23,2026,1
+126,190,Ex Machina,Science-Fiction,Alex Garland,4.0,2025-08-26,2025,8
+127,175,The Hangover,Comédie,Todd Phillips,1.0,2026-05-25,2026,5
+127,20,Oldboy,Thriller,Park Chan-wook,3.0,2025-01-11,2025,1
+128,41,Zodiac,Thriller,David Fincher,4.0,2025-10-07,2025,10
+128,141,It,Horreur,Andy Muschietti,2.0,2025-04-04,2025,4
+128,138,Forrest Gump,Drame,Robert Zemeckis,1.0,2026-01-15,2026,1
+128,65,Dunkirk,Guerre,Christopher Nolan,1.0,2025-05-30,2025,5
+128,93,Die Hard,Action,John McTiernan,5.0,2025-02-12,2025,2
+128,160,Mission Impossible: Fallout,Action,Christopher McQuarrie,5.0,2024-08-16,2024,8
+129,15,Spirited Away,Animé,Hayao Miyazaki,4.0,2024-10-08,2024,10
+129,11,Superbad,Comédie,Greg Mottola,1.0,2025-12-01,2025,12
+130,60,Yes Man,Comédie,Peyton Reed,4.0,2024-08-20,2024,8
+130,70,Se7en,Thriller,David Fincher,1.0,2026-03-05,2026,3
+130,74,Toy Story,Animation,John Lasseter,1.0,2024-11-23,2024,11
+130,23,Dunkirk,Guerre,Christopher Nolan,5.0,2025-04-18,2025,4
+130,97,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,2.0,2026-02-25,2026,2
+131,89,Pride and Prejudice,Romance,Joe Wright,5.0,2025-10-10,2025,10
+131,57,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,1.0,2024-06-10,2024,6
+131,165,Saving Private Ryan,Guerre,Steven Spielberg,1.0,2026-02-16,2026,2
+131,171,The Revenant,Aventure,Alejandro G. Inarritu,5.0,2025-01-24,2025,1
+131,149,The Grand Budapest Hotel,Comédie,Wes Anderson,3.0,2024-11-12,2024,11
+132,63,Yes Man,Comédie,Peyton Reed,2.0,2024-07-08,2024,7
+132,119,A Quiet Place,Horreur,John Krasinski,5.0,2026-04-19,2026,4
+133,24,Mad Max: Fury Road,Action,George Miller,2.0,2025-02-04,2025,2
+133,16,The Hangover,Comédie,Todd Phillips,5.0,2024-07-26,2024,7
+133,28,Pulp Fiction,Crime,Quentin Tarantino,1.0,2024-12-01,2024,12
+133,113,The Grand Budapest Hotel,Comédie,Wes Anderson,4.0,2025-04-12,2025,4
+133,197,Blade Runner 2049,Science-Fiction,Denis Villeneuve,3.0,2026-02-09,2026,2
+133,77,The Matrix,Science-Fiction,"Lana Wachowski, Lilly Wachowski",2.0,2025-11-05,2025,11
+134,170,Zodiac,Thriller,David Fincher,5.0,2024-12-05,2024,12
+134,108,Blade Runner 2049,Science-Fiction,Denis Villeneuve,2.0,2025-11-21,2025,11
+134,143,The Notebook,Romance,Nick Cassavetes,2.0,2025-01-30,2025,1
+134,77,Ratatouille,Animation,Brad Bird,4.0,2024-07-07,2024,7
+134,163,The Imitation Game,Historique,Morten Tyldum,5.0,2025-12-19,2025,12
+135,47,Gone Girl,Thriller,David Fincher,5.0,2025-07-10,2025,7
+135,95,Inside Out,Animation,Pete Docter,3.0,2025-04-08,2025,4
+135,112,Forrest Gump,Drame,Robert Zemeckis,4.0,2026-02-19,2026,2
+135,149,Prisoners,Thriller,Denis Villeneuve,3.0,2025-01-08,2025,1
+136,140,Pulp Fiction,Crime,Quentin Tarantino,3.0,2026-04-08,2026,4
+136,51,Parasite,Thriller,Bong Joon-ho,3.0,2026-04-20,2026,4
+136,163,Interstellar,Science-Fiction,Christopher Nolan,5.0,2024-06-14,2024,6
+136,66,Oldboy,Thriller,Park Chan-wook,3.0,2024-06-12,2024,6
+136,108,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,4.0,2026-02-22,2026,2
+137,82,1917,Guerre,Sam Mendes,5.0,2025-06-23,2025,6
+138,95,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,3.0,2025-12-30,2025,12
+139,58,Yes Man,Comédie,Peyton Reed,1.0,2025-07-29,2025,7
+140,129,The Departed,Crime,Martin Scorsese,5.0,2024-11-15,2024,11
+140,106,Forrest Gump,Drame,Robert Zemeckis,2.0,2026-05-20,2026,5
+140,33,Yes Man,Comédie,Peyton Reed,4.0,2024-07-15,2024,7
+140,11,Blade Runner 2049,Science-Fiction,Denis Villeneuve,3.0,2024-11-27,2024,11
+140,132,Schindler's List,Historique,Steven Spielberg,3.0,2025-03-16,2025,3
+141,196,A Beautiful Mind,Drame,Ron Howard,3.0,2024-12-01,2024,12
+141,171,Jurassic Park,Aventure,Steven Spielberg,1.0,2025-10-13,2025,10
+141,133,Oldboy,Thriller,Park Chan-wook,4.0,2025-04-21,2025,4
+141,61,The Hobbit: An Unexpected Journey,Aventure,Peter Jackson,5.0,2024-11-18,2024,11
+141,37,Whiplash,Drame,Damien Chazelle,1.0,2026-05-17,2026,5
+141,137,Schindler's List,Historique,Steven Spielberg,5.0,2025-01-10,2025,1
+142,161,Forrest Gump,Drame,Robert Zemeckis,2.0,2024-07-06,2024,7
+142,112,Toy Story,Animation,John Lasseter,5.0,2024-10-04,2024,10
+142,54,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,1.0,2025-12-11,2025,12
+142,95,A Quiet Place,Horreur,John Krasinski,4.0,2026-02-13,2026,2
+143,194,Goodfellas,Crime,Martin Scorsese,3.0,2025-08-11,2025,8
+143,46,The Departed,Crime,Martin Scorsese,1.0,2025-01-27,2025,1
+143,32,Interstellar,Science-Fiction,Christopher Nolan,2.0,2025-01-27,2025,1
+143,92,Yes Man,Comédie,Peyton Reed,1.0,2024-11-28,2024,11
+143,149,Prisoners,Thriller,Denis Villeneuve,1.0,2026-01-06,2026,1
+144,152,Mission Impossible: Fallout,Action,Christopher McQuarrie,5.0,2025-04-06,2025,4
+144,137,Your Name,Animé,Makoto Shinkai,5.0,2026-02-25,2026,2
+144,51,Before Sunrise,Romance,Richard Linklater,1.0,2025-03-02,2025,3
+144,91,The Lord of the Rings: The Fellowship of the Ring,Aventure,Peter Jackson,2.0,2025-01-17,2025,1
+144,154,The Imitation Game,Historique,Morten Tyldum,3.0,2024-11-26,2024,11
+144,52,A Star Is Born,Romance,Bradley Cooper,1.0,2024-10-25,2024,10
+145,52,Ex Machina,Science-Fiction,Alex Garland,2.0,2026-03-31,2026,3
+145,196,Titanic,Romance,James Cameron,2.0,2026-05-06,2026,5
+145,53,The Social Network,Drame,David Fincher,4.0,2025-12-23,2025,12
+145,39,Ratatouille,Animation,Brad Bird,3.0,2026-05-24,2026,5
+145,188,Gone Girl,Thriller,David Fincher,3.0,2024-10-29,2024,10
+145,130,Toy Story,Animation,John Lasseter,5.0,2025-12-02,2025,12
+146,61,Mad Max: Fury Road,Action,George Miller,5.0,2025-01-03,2025,1
+146,159,Arrival,Science-Fiction,Denis Villeneuve,3.0,2025-03-01,2025,3
+147,127,WALL-E,Animation,Andrew Stanton,3.0,2025-11-21,2025,11
+147,75,Titanic,Romance,James Cameron,4.0,2025-07-19,2025,7
+148,21,Oldboy,Thriller,Park Chan-wook,3.0,2026-04-20,2026,4
+148,110,Whiplash,Drame,Damien Chazelle,5.0,2025-01-29,2025,1
+149,175,Ex Machina,Science-Fiction,Alex Garland,2.0,2024-07-17,2024,7
+150,193,Prisoners,Thriller,Denis Villeneuve,1.0,2024-06-17,2024,6
+150,189,Casino,Crime,Martin Scorsese,1.0,2025-12-04,2025,12
+151,73,Fight Club,Drame,David Fincher,2.0,2025-10-18,2025,10
+151,132,The Social Network,Drame,David Fincher,3.0,2024-09-20,2024,9
+152,156,The Notebook,Romance,Nick Cassavetes,5.0,2024-12-13,2024,12
+152,79,Pulp Fiction,Crime,Quentin Tarantino,2.0,2026-04-30,2026,4
+153,60,Toy Story,Animation,John Lasseter,2.0,2024-07-04,2024,7
+153,11,The Social Network,Drame,David Fincher,5.0,2026-03-15,2026,3
+154,27,Oldboy,Thriller,Park Chan-wook,4.0,2025-08-09,2025,8
+154,122,Bruce Almighty,Comédie,Tom Shadyac,2.9862595419847326,2025-10-04,2025,10
+154,148,Titanic,Romance,James Cameron,5.0,2026-05-22,2026,5
+154,91,Saving Private Ryan,Guerre,Steven Spielberg,1.0,2024-09-04,2024,9
+155,80,Titanic,Romance,James Cameron,5.0,2026-05-04,2026,5
+155,111,Oldboy,Thriller,Park Chan-wook,5.0,2025-11-14,2025,11
+155,136,A Quiet Place,Horreur,John Krasinski,1.0,2025-07-28,2025,7
+155,135,Se7en,Thriller,David Fincher,4.0,2025-06-16,2025,6
+155,179,Saving Private Ryan,Guerre,Steven Spielberg,5.0,2026-05-01,2026,5
+155,94,Zodiac,Thriller,David Fincher,4.0,2025-10-18,2025,10
+156,62,It,Horreur,Andy Muschietti,5.0,2024-08-14,2024,8
+156,55,Pirates of the Caribbean,Aventure,Gore Verbinski,3.0,2025-09-17,2025,9
+156,161,The Social Network,Drame,David Fincher,5.0,2026-02-03,2026,2
+156,149,A Beautiful Mind,Drame,Ron Howard,5.0,2025-07-16,2025,7
+156,29,Yes Man,Comédie,Peyton Reed,5.0,2024-08-29,2024,8
+156,197,The Departed,Crime,Martin Scorsese,1.0,2026-04-28,2026,4
+157,65,The Godfather,Crime,Francis Ford Coppola,4.0,2025-11-11,2025,11
+157,89,Blade Runner 2049,Science-Fiction,Denis Villeneuve,4.0,2025-09-11,2025,9
+158,198,Gladiator,Action,Ridley Scott,2.0,2025-01-18,2025,1
+158,140,Fight Club,Drame,David Fincher,4.0,2024-10-05,2024,10
+158,92,The Lord of the Rings: The Fellowship of the Ring,Aventure,Peter Jackson,1.0,2026-05-03,2026,5
+158,146,A Beautiful Mind,Drame,Ron Howard,3.0,2025-11-15,2025,11
+158,54,Inside Out,Animation,Pete Docter,5.0,2026-06-04,2026,6
+158,97,Pirates of the Caribbean,Aventure,Gore Verbinski,5.0,2026-04-07,2026,4
+159,47,John Wick,Action,Chad Stahelski,4.0,2025-08-04,2025,8
+159,166,Oppenheimer,Historique,Christopher Nolan,4.0,2026-03-17,2026,3
+159,159,The Notebook,Romance,Nick Cassavetes,5.0,2025-06-01,2025,6
+160,97,The Matrix,Science-Fiction,"Lana Wachowski, Lilly Wachowski",5.0,2025-09-02,2025,9
+160,73,The Shining,Horreur,Stanley Kubrick,4.0,2025-03-11,2025,3
+160,102,Dunkirk,Guerre,Christopher Nolan,5.0,2024-09-16,2024,9
+161,46,The Revenant,Aventure,Alejandro G. Inarritu,5.0,2025-08-23,2025,8
+161,119,Se7en,Thriller,David Fincher,2.0,2026-03-11,2026,3
+162,8,Goodfellas,Crime,Martin Scorsese,3.0,2024-08-11,2024,8
+162,177,A Beautiful Mind,Drame,Ron Howard,3.0,2025-10-20,2025,10
+162,109,Bruce Almighty,Comédie,Tom Shadyac,3.0,2025-09-27,2025,9
+162,192,The Pursuit of Happyness,Drame,Gabriele Muccino,1.0,2026-05-02,2026,5
+162,161,Superbad,Comédie,Greg Mottola,5.0,2024-11-28,2024,11
+163,184,Zodiac,Thriller,David Fincher,4.0,2025-07-01,2025,7
+163,55,Ratatouille,Animation,Brad Bird,2.0,2024-09-02,2024,9
+163,182,Saving Private Ryan,Guerre,Steven Spielberg,5.0,2025-12-15,2025,12
+163,153,Hereditary,Horreur,Ari Aster,2.0,2026-02-14,2026,2
+163,76,La La Land,Romance,Damien Chazelle,3.0,2024-07-09,2024,7
+164,90,Toy Story,Animation,John Lasseter,3.0,2025-05-05,2025,5
+164,53,Pride and Prejudice,Romance,Joe Wright,5.0,2025-09-22,2025,9
+164,25,The Conjuring,Horreur,James Wan,3.0,2026-02-15,2026,2
+164,104,The Hangover,Comédie,Todd Phillips,1.0,2024-07-10,2024,7
+164,191,It,Horreur,Andy Muschietti,1.0,2025-10-01,2025,10
+164,62,Fight Club,Drame,David Fincher,2.0,2026-04-01,2026,4
+165,108,Your Name,Animé,Makoto Shinkai,1.0,2024-09-21,2024,9
+165,8,A Quiet Place,Horreur,John Krasinski,3.0,2025-04-26,2025,4
+165,84,Zodiac,Thriller,David Fincher,1.0,2025-09-29,2025,9
+165,196,It,Horreur,Andy Muschietti,1.0,2024-08-20,2024,8
+166,110,A Star Is Born,Romance,Bradley Cooper,2.0,2025-12-24,2025,12
+166,162,A Quiet Place,Horreur,John Krasinski,4.0,2025-01-01,2025,1
+166,103,The Conjuring,Horreur,James Wan,4.0,2024-09-21,2024,9
+167,36,Get Out,Horreur,Jordan Peele,2.0,2026-03-23,2026,3
+167,179,Parasite,Thriller,Bong Joon-ho,3.0,2026-01-04,2026,1
+167,180,The Lord of the Rings: The Fellowship of the Ring,Aventure,Peter Jackson,5.0,2026-03-09,2026,3
+167,75,Inside Out,Animation,Pete Docter,5.0,2025-10-15,2025,10
+167,175,The Departed,Crime,Martin Scorsese,4.0,2025-01-07,2025,1
+168,37,The Revenant,Aventure,Alejandro G. Inarritu,3.0,2025-02-22,2025,2
+168,169,Pride and Prejudice,Romance,Joe Wright,4.0,2024-06-19,2024,6
+168,119,The Lord of the Rings: The Fellowship of the Ring,Aventure,Peter Jackson,2.0,2025-08-21,2025,8
+168,76,Forrest Gump,Drame,Robert Zemeckis,2.0,2025-02-22,2025,2
+168,63,Goodfellas,Crime,Martin Scorsese,2.0,2025-07-21,2025,7
+168,62,The Social Network,Drame,David Fincher,5.0,2025-01-24,2025,1
+169,40,John Wick,Action,Chad Stahelski,2.0,2026-04-26,2026,4
+170,133,The Matrix,Science-Fiction,"Lana Wachowski, Lilly Wachowski",2.0,2024-07-20,2024,7
+170,37,Titanic,Romance,James Cameron,2.0,2026-02-12,2026,2
+170,159,Oldboy,Thriller,Park Chan-wook,4.0,2025-12-07,2025,12
+171,73,The Notebook,Romance,Nick Cassavetes,2.0,2025-11-17,2025,11
+171,2,A Quiet Place,Horreur,John Krasinski,4.0,2024-12-27,2024,12
+172,57,Mission Impossible: Fallout,Action,Christopher McQuarrie,2.0,2026-05-14,2026,5
+172,69,A Star Is Born,Romance,Bradley Cooper,5.0,2026-01-09,2026,1
+172,81,Casino,Crime,Martin Scorsese,2.0,2024-06-15,2024,6
+172,71,Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,1.0,2025-02-11,2025,2
+172,112,Ratatouille,Animation,Brad Bird,4.0,2024-07-18,2024,7
+173,148,The Revenant,Aventure,Alejandro G. Inarritu,1.0,2025-05-09,2025,5
+173,77,The Social Network,Drame,David Fincher,4.0,2026-02-12,2026,2
+173,109,Gone Girl,Thriller,David Fincher,2.0,2024-07-12,2024,7
+173,105,Inception,Science-Fiction,Christopher Nolan,1.0,2025-05-03,2025,5
+174,137,Fight Club,Drame,David Fincher,2.0,2025-09-08,2025,9
+174,171,Before Sunrise,Romance,Richard Linklater,2.0,2025-06-18,2025,6
+174,7,Prisoners,Thriller,Denis Villeneuve,3.0,2026-01-10,2026,1
+174,161,Pride and Prejudice,Romance,Joe Wright,1.0,2024-09-09,2024,9
+175,87,The Grand Budapest Hotel,Comédie,Wes Anderson,2.0,2024-08-04,2024,8
+175,124,Zodiac,Thriller,David Fincher,3.0,2024-12-07,2024,12
+176,7,Toy Story,Animation,John Lasseter,4.0,2025-09-24,2025,9
+176,36,The Conjuring,Horreur,James Wan,5.0,2024-08-20,2024,8
+176,5,The Imitation Game,Historique,Morten Tyldum,1.0,2025-05-22,2025,5
+176,151,The Shining,Horreur,Stanley Kubrick,1.0,2026-02-05,2026,2
+176,130,The Social Network,Drame,David Fincher,1.0,2024-09-16,2024,9
+176,149,Pride and Prejudice,Romance,Joe Wright,2.0,2024-10-13,2024,10
+177,69,Fight Club,Drame,David Fincher,1.0,2024-07-28,2024,7
+177,56,Inside Out,Animation,Pete Docter,2.0,2026-01-05,2026,1
+178,161,Inside Out,Animation,Pete Docter,1.0,2025-03-07,2025,3
+178,175,Parasite,Thriller,Bong Joon-ho,4.0,2024-09-29,2024,9
+178,23,Blade Runner 2049,Science-Fiction,Denis Villeneuve,2.9862595419847326,2025-06-26,2025,6
+178,29,The Pursuit of Happyness,Drame,Gabriele Muccino,5.0,2026-05-01,2026,5
+178,17,The Godfather,Crime,Francis Ford Coppola,5.0,2025-10-20,2025,10
+178,179,Hereditary,Horreur,Ari Aster,3.0,2026-03-14,2026,3
+179,95,The Lord of the Rings: The Fellowship of the Ring,Aventure,Peter Jackson,3.0,2025-10-28,2025,10
+180,44,A Star Is Born,Romance,Bradley Cooper,3.0,2025-09-22,2025,9
+180,145,1917,Guerre,Sam Mendes,2.0,2024-09-01,2024,9
+180,179,The Shining,Horreur,Stanley Kubrick,3.0,2025-01-10,2025,1
+180,86,Mission Impossible: Fallout,Action,Christopher McQuarrie,2.0,2025-10-08,2025,10
+181,106,Heat,Crime,Michael Mann,2.0,2024-06-24,2024,6
+181,171,A Quiet Place,Horreur,John Krasinski,5.0,2025-08-23,2025,8
+181,82,The Imitation Game,Historique,Morten Tyldum,3.0,2025-08-05,2025,8
+181,68,Inside Out,Animation,Pete Docter,2.0,2025-04-24,2025,4
+181,4,Dunkirk,Guerre,Christopher Nolan,4.0,2024-09-22,2024,9
+182,157,Interstellar,Science-Fiction,Christopher Nolan,4.0,2025-09-13,2025,9
+183,99,Inception,Science-Fiction,Christopher Nolan,4.0,2024-10-27,2024,10
+183,90,Gladiator,Action,Ridley Scott,1.0,2024-10-02,2024,10
+183,111,Dunkirk,Guerre,Christopher Nolan,5.0,2025-01-08,2025,1
+184,109,The Pursuit of Happyness,Drame,Gabriele Muccino,3.0,2024-06-10,2024,6
+184,66,Mission Impossible: Fallout,Action,Christopher McQuarrie,2.0,2024-09-05,2024,9
+184,181,Blade Runner 2049,Science-Fiction,Denis Villeneuve,2.0,2026-01-31,2026,1
+184,106,Arrival,Science-Fiction,Denis Villeneuve,1.0,2025-10-28,2025,10
+185,99,Ratatouille,Animation,Brad Bird,2.0,2024-07-25,2024,7
+185,163,The Hobbit: An Unexpected Journey,Aventure,Peter Jackson,1.0,2024-10-07,2024,10
+186,141,Toy Story,Animation,John Lasseter,5.0,2024-06-26,2024,6
+187,13,The Dark Knight,Action,Christopher Nolan,5.0,2024-09-04,2024,9
+187,27,WALL-E,Animation,Andrew Stanton,2.0,2025-09-12,2025,9
+187,154,Inception,Science-Fiction,Christopher Nolan,5.0,2024-08-03,2024,8
+187,128,Dunkirk,Guerre,Christopher Nolan,1.0,2025-05-17,2025,5
+187,155,Gladiator,Action,Ridley Scott,2.0,2026-02-26,2026,2
+188,99,Arrival,Science-Fiction,Denis Villeneuve,3.0,2024-11-09,2024,11
+188,112,The Grand Budapest Hotel,Comédie,Wes Anderson,1.0,2025-09-09,2025,9
+188,161,The Godfather,Crime,Francis Ford Coppola,3.0,2025-07-10,2025,7
+188,133,Ex Machina,Science-Fiction,Alex Garland,5.0,2025-10-04,2025,10
+188,111,The Social Network,Drame,David Fincher,3.0,2025-02-26,2025,2
+188,70,Titanic,Romance,James Cameron,2.0,2024-06-26,2024,6
+189,10,Before Sunrise,Romance,Richard Linklater,2.0,2024-11-16,2024,11
+189,66,Goodfellas,Crime,Martin Scorsese,3.0,2024-07-17,2024,7
+190,186,Ratatouille,Animation,Brad Bird,1.0,2026-06-04,2026,6
+190,116,Superbad,Comédie,Greg Mottola,4.0,2025-03-04,2025,3
+191,192,Get Out,Horreur,Jordan Peele,5.0,2026-01-21,2026,1
+192,68,Mission Impossible: Fallout,Action,Christopher McQuarrie,5.0,2025-11-30,2025,11
+192,86,The Imitation Game,Historique,Morten Tyldum,2.0,2025-03-28,2025,3
+192,7,The Shining,Horreur,Stanley Kubrick,1.0,2024-06-15,2024,6
+192,171,La La Land,Romance,Damien Chazelle,1.0,2024-11-24,2024,11
+192,200,Gladiator,Action,Ridley Scott,1.0,2025-07-16,2025,7
+193,198,Jurassic Park,Aventure,Steven Spielberg,3.0,2025-01-06,2025,1
+194,67,Before Sunrise,Romance,Richard Linklater,4.0,2025-02-02,2025,2
+194,79,Inception,Science-Fiction,Christopher Nolan,3.0,2025-02-26,2025,2
+194,6,The Dark Knight,Action,Christopher Nolan,5.0,2025-09-12,2025,9
+194,180,Toy Story,Animation,John Lasseter,4.0,2026-01-18,2026,1
+195,92,Oldboy,Thriller,Park Chan-wook,2.0,2025-04-09,2025,4
+195,86,Blade Runner 2049,Science-Fiction,Denis Villeneuve,1.0,2025-10-27,2025,10
+195,131,Ratatouille,Animation,Brad Bird,5.0,2024-11-27,2024,11
+195,87,Pulp Fiction,Crime,Quentin Tarantino,5.0,2024-11-26,2024,11
+195,37,The Imitation Game,Historique,Morten Tyldum,1.0,2025-08-21,2025,8
+196,112,Prisoners,Thriller,Denis Villeneuve,2.0,2025-03-21,2025,3
+196,196,The Hobbit: An Unexpected Journey,Aventure,Peter Jackson,4.0,2024-09-10,2024,9
+197,118,Parasite,Thriller,Bong Joon-ho,3.0,2025-05-20,2025,5
+197,15,Saving Private Ryan,Guerre,Steven Spielberg,5.0,2025-08-21,2025,8
+198,58,Home Alone,Comédie,Chris Columbus,4.0,2026-04-29,2026,4
+198,142,Casino,Crime,Martin Scorsese,5.0,2025-10-10,2025,10
+198,66,Bruce Almighty,Comédie,Tom Shadyac,3.0,2026-04-06,2026,4
+198,11,Interstellar,Science-Fiction,Christopher Nolan,5.0,2026-04-11,2026,4
+198,64,Gone Girl,Thriller,David Fincher,1.0,2025-09-22,2025,9
+199,135,The Imitation Game,Historique,Morten Tyldum,1.0,2025-05-31,2025,5
+199,134,Se7en,Thriller,David Fincher,1.0,2025-04-11,2025,4
+199,133,The Matrix,Science-Fiction,"Lana Wachowski, Lilly Wachowski",5.0,2024-07-17,2024,7
+199,33,Oldboy,Thriller,Park Chan-wook,2.0,2024-10-23,2024,10
+199,189,Interstellar,Science-Fiction,Christopher Nolan,3.0,2025-07-21,2025,7
+200,200,La La Land,Romance,Damien Chazelle,3.0,2025-07-27,2025,7

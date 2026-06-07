@@ -4,4 +4,4 @@ _ pour les préférences nous allons utiliser le diagramme circulaire avec MATPL
 
 _pour les tendances nous allons utiliser le graphique linéaire avec MATPLOTIB des évaluations des utilisateurs au cours du mois dernier pour visualiser l'évolution des notes des utilisateurs au fil du temps (notes des films, le dernier mois)
 
-A la fin nous allons interprété tout les résultats
+A la fin nous allons interprété tout les résultats 

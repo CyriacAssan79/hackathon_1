@@ -1,67 +1,67 @@
 movie,genre,director,year,duration,rate
-Inception,Science-Fiction,Christopher Nolan,1993,108,1
-Interstellar,Science-Fiction,Christopher Nolan,2018,117,1
-The Matrix,Science-Fiction,"Lana Wachowski, Lilly Wachowski",2008,138,4
-Arrival,Science-Fiction,Denis Villeneuve,1998,81,1
-Blade Runner 2049,Science-Fiction,Denis Villeneuve,2007,199,3
-Ex Machina,Science-Fiction,Alex Garland,2005,199,5
-Gladiator,Action,Ridley Scott,1992,86,2
-The Dark Knight,Action,Christopher Nolan,2004,95,1
-Mad Max: Fury Road,Action,George Miller,2011,195,5
-Die Hard,Action,John McTiernan,1982,187,1
-John Wick,Action,Chad Stahelski,2014,115,3
-Mission Impossible: Fallout,Action,Christopher McQuarrie,2013,155,3
-Forrest Gump,Drame,Robert Zemeckis,1990,89,4
-Fight Club,Drame,David Fincher,2001,159,1
-Whiplash,Drame,Damien Chazelle,1991,163,4
-The Social Network,Drame,David Fincher,2009,80,3
-A Beautiful Mind,Drame,Ron Howard,2015,195,5
-The Pursuit of Happyness,Drame,Gabriele Muccino,1999,190,3
-The Godfather,Crime,Francis Ford Coppola,2021,132,3
-Goodfellas,Crime,Martin Scorsese,1983,107,2
-Pulp Fiction,Crime,Quentin Tarantino,2017,100,5
-The Departed,Crime,Martin Scorsese,2002,115,1
-Casino,Crime,Martin Scorsese,1993,191,2
-Heat,Crime,Michael Mann,2001,155,2
-Se7en,Thriller,David Fincher,1987,169,5
-Gone Girl,Thriller,David Fincher,2003,160,4
-Prisoners,Thriller,Denis Villeneuve,2003,115,4
-Parasite,Thriller,Bong Joon-ho,1982,107,1
-Oldboy,Thriller,Park Chan-wook,1994,97,3
-Zodiac,Thriller,David Fincher,2000,121,4
-The Conjuring,Horreur,James Wan,2018,104,3
-Get Out,Horreur,Jordan Peele,1998,137,2
-Hereditary,Horreur,Ari Aster,2009,179,3
-A Quiet Place,Horreur,John Krasinski,1980,139,5
-It,Horreur,Andy Muschietti,1999,110,5
-The Shining,Horreur,Stanley Kubrick,2015,145,1
-Home Alone,Comédie,Chris Columbus,2012,103,2
-The Hangover,Comédie,Todd Phillips,1996,124,4
-Superbad,Comédie,Greg Mottola,2000,138,4
-The Grand Budapest Hotel,Comédie,Wes Anderson,2013,137,5
-Yes Man,Comédie,Peyton Reed,1999,89,5
-Bruce Almighty,Comédie,Tom Shadyac,1992,87,3
-Titanic,Romance,James Cameron,2020,110,2
-The Notebook,Romance,Nick Cassavetes,1987,156,5
-Pride and Prejudice,Romance,Joe Wright,2001,94,5
-Before Sunrise,Romance,Richard Linklater,2020,185,3
-La La Land,Romance,Damien Chazelle,2014,164,3
-A Star Is Born,Romance,Bradley Cooper,1991,178,4
-Jurassic Park,Aventure,Steven Spielberg,1997,190,3
-Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,2016,180,4
-Pirates of the Caribbean,Aventure,Gore Verbinski,1989,117,4
-The Revenant,Aventure,Alejandro G. Inarritu,2025,148,5
-The Lord of the Rings: The Fellowship of the Ring,Aventure,Peter Jackson,2017,109,2
-The Hobbit: An Unexpected Journey,Aventure,Peter Jackson,1998,89,4
-Saving Private Ryan,Guerre,Steven Spielberg,2008,136,5
-1917,Guerre,Sam Mendes,1980,81,4
-Dunkirk,Guerre,Christopher Nolan,2012,139,3
-Schindler's List,Historique,Steven Spielberg,1997,91,2
-Oppenheimer,Historique,Christopher Nolan,1985,165,4
-The Imitation Game,Historique,Morten Tyldum,1993,123,2
-Spirited Away,Animé,Hayao Miyazaki,1981,185,3
-Your Name,Animé,Makoto Shinkai,2021,168,4
-Toy Story,Animation,John Lasseter,2023,91,1
-Inside Out,Animation,Pete Docter,1984,143,1
-Ratatouille,Animation,Brad Bird,2009,99,3
-WALL-E,Animation,Andrew Stanton,2020,165,1
+Inception,Science-Fiction,Christopher Nolan,1991,96,2
+Interstellar,Science-Fiction,Christopher Nolan,1984,100,5
+The Matrix,Science-Fiction,"Lana Wachowski, Lilly Wachowski",2024,138,5
+Arrival,Science-Fiction,Denis Villeneuve,2000,152,3
+Blade Runner 2049,Science-Fiction,Denis Villeneuve,1991,169,5
+Ex Machina,Science-Fiction,Alex Garland,1997,96,4
+Gladiator,Action,Ridley Scott,1980,160,1
+The Dark Knight,Action,Christopher Nolan,1987,108,1
+Mad Max: Fury Road,Action,George Miller,1982,147,2
+Die Hard,Action,John McTiernan,2021,87,4
+John Wick,Action,Chad Stahelski,2017,82,1
+Mission Impossible: Fallout,Action,Christopher McQuarrie,1992,169,1
+Forrest Gump,Drame,Robert Zemeckis,1997,84,5
+Fight Club,Drame,David Fincher,2018,118,3
+Whiplash,Drame,Damien Chazelle,1987,157,4
+The Social Network,Drame,David Fincher,1980,164,2
+A Beautiful Mind,Drame,Ron Howard,1996,165,4
+The Pursuit of Happyness,Drame,Gabriele Muccino,2022,175,4
+The Godfather,Crime,Francis Ford Coppola,1987,194,3
+Goodfellas,Crime,Martin Scorsese,1996,80,3
+Pulp Fiction,Crime,Quentin Tarantino,2017,113,3
+The Departed,Crime,Martin Scorsese,2002,97,3
+Casino,Crime,Martin Scorsese,2016,147,5
+Heat,Crime,Michael Mann,1995,93,5
+Se7en,Thriller,David Fincher,2004,157,5
+Gone Girl,Thriller,David Fincher,1981,101,3
+Prisoners,Thriller,Denis Villeneuve,2006,103,4
+Parasite,Thriller,Bong Joon-ho,2011,150,1
+Oldboy,Thriller,Park Chan-wook,1982,109,2
+Zodiac,Thriller,David Fincher,1984,188,3
+The Conjuring,Horreur,James Wan,2008,82,3
+Get Out,Horreur,Jordan Peele,1985,136,3
+Hereditary,Horreur,Ari Aster,2024,140,4
+A Quiet Place,Horreur,John Krasinski,1998,111,2
+It,Horreur,Andy Muschietti,2014,133,2
+The Shining,Horreur,Stanley Kubrick,1990,181,1
+Home Alone,Comédie,Chris Columbus,1985,105,2
+The Hangover,Comédie,Todd Phillips,1997,195,3
+Superbad,Comédie,Greg Mottola,2012,142,2
+The Grand Budapest Hotel,Comédie,Wes Anderson,1988,132,5
+Yes Man,Comédie,Peyton Reed,2016,193,3
+Bruce Almighty,Comédie,Tom Shadyac,1982,111,4
+Titanic,Romance,James Cameron,2018,83,2
+The Notebook,Romance,Nick Cassavetes,1995,121,2
+Pride and Prejudice,Romance,Joe Wright,1986,107,5
+Before Sunrise,Romance,Richard Linklater,2018,134,4
+La La Land,Romance,Damien Chazelle,2007,114,4
+A Star Is Born,Romance,Bradley Cooper,2007,116,3
+Jurassic Park,Aventure,Steven Spielberg,1994,81,4
+Indiana Jones and the Last Crusade,Aventure,Steven Spielberg,1983,86,5
+Pirates of the Caribbean,Aventure,Gore Verbinski,2002,92,4
+The Revenant,Aventure,Alejandro G. Inarritu,1992,137,1
+The Lord of the Rings: The Fellowship of the Ring,Aventure,Peter Jackson,1994,198,4
+The Hobbit: An Unexpected Journey,Aventure,Peter Jackson,1985,119,2
+Saving Private Ryan,Guerre,Steven Spielberg,2015,124,5
+1917,Guerre,Sam Mendes,2014,88,5
+Dunkirk,Guerre,Christopher Nolan,2023,102,4
+Schindler's List,Historique,Steven Spielberg,1980,97,5
+Oppenheimer,Historique,Christopher Nolan,2016,83,3
+The Imitation Game,Historique,Morten Tyldum,1988,111,2
+Spirited Away,Animé,Hayao Miyazaki,1997,200,4
+Your Name,Animé,Makoto Shinkai,1994,162,2
+Toy Story,Animation,John Lasseter,1991,165,5
+Inside Out,Animation,Pete Docter,1993,162,5
+Ratatouille,Animation,Brad Bird,2010,151,4
+WALL-E,Animation,Andrew Stanton,1999,127,1
